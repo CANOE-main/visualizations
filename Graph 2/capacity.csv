@@ -1,0 +1,1099 @@
+model,scenario,region,variable,unit,time,value
+canoe,nz,alberta,capacity|electricity,GW,2025,53.205025843380724
+canoe,nz,alberta,capacity|electricity,GW,2030,58.07466687604855
+canoe,nz,alberta,capacity|electricity,GW,2035,60.958029912877755
+canoe,nz,alberta,capacity|electricity,GW,2040,66.44270893654476
+canoe,nz,alberta,capacity|electricity,GW,2045,71.20503075353786
+canoe,nz,alberta,capacity|electricity,GW,2050,77.89494798563454
+canoe,nz,british columbia,capacity|electricity,GW,2025,28.337532507274855
+canoe,nz,british columbia,capacity|electricity,GW,2030,32.05472464589215
+canoe,nz,british columbia,capacity|electricity,GW,2035,38.00731523845688
+canoe,nz,british columbia,capacity|electricity,GW,2040,46.08106372031291
+canoe,nz,british columbia,capacity|electricity,GW,2045,50.04889973563882
+canoe,nz,british columbia,capacity|electricity,GW,2050,56.34751082859858
+canoe,nz,canada,capacity|electricity,GW,2025,265.562765563351
+canoe,nz,canada,capacity|electricity,GW,2030,302.39791606778414
+canoe,nz,canada,capacity|electricity,GW,2035,345.77585960647235
+canoe,nz,canada,capacity|electricity,GW,2040,368.8538522970787
+canoe,nz,canada,capacity|electricity,GW,2045,379.71340457670925
+canoe,nz,canada,capacity|electricity,GW,2050,401.3541178074111
+canoe,nz,manitoba,capacity|electricity,GW,2025,8.552255772390735
+canoe,nz,manitoba,capacity|electricity,GW,2030,8.846998338426545
+canoe,nz,manitoba,capacity|electricity,GW,2035,8.920487468029222
+canoe,nz,manitoba,capacity|electricity,GW,2040,9.531189595311613
+canoe,nz,manitoba,capacity|electricity,GW,2045,9.743167707408269
+canoe,nz,manitoba,capacity|electricity,GW,2050,10.23915333470901
+canoe,nz,new brunswick,capacity|electricity,GW,2025,6.5514083911040375
+canoe,nz,new brunswick,capacity|electricity,GW,2030,6.573593987268213
+canoe,nz,new brunswick,capacity|electricity,GW,2035,6.379291040242756
+canoe,nz,new brunswick,capacity|electricity,GW,2040,6.470433326168703
+canoe,nz,new brunswick,capacity|electricity,GW,2045,6.8704819174640335
+canoe,nz,new brunswick,capacity|electricity,GW,2050,7.24909369597291
+canoe,nz,newfoundland and labrador,capacity|electricity,GW,2025,8.439448684909497
+canoe,nz,newfoundland and labrador,capacity|electricity,GW,2030,8.442914830821007
+canoe,nz,newfoundland and labrador,capacity|electricity,GW,2035,8.42198161091063
+canoe,nz,newfoundland and labrador,capacity|electricity,GW,2040,8.372445868479707
+canoe,nz,newfoundland and labrador,capacity|electricity,GW,2045,8.372687691794045
+canoe,nz,newfoundland and labrador,capacity|electricity,GW,2050,8.370744663566642
+canoe,nz,nova scotia,capacity|electricity,GW,2025,4.662712843244532
+canoe,nz,nova scotia,capacity|electricity,GW,2030,5.443124140450795
+canoe,nz,nova scotia,capacity|electricity,GW,2035,6.223135160404862
+canoe,nz,nova scotia,capacity|electricity,GW,2040,6.890088256204298
+canoe,nz,nova scotia,capacity|electricity,GW,2045,6.919044532140366
+canoe,nz,nova scotia,capacity|electricity,GW,2050,7.34590588114889
+canoe,nz,ontario,capacity|electricity,GW,2025,53.10615022969006
+canoe,nz,ontario,capacity|electricity,GW,2030,75.24556258089297
+canoe,nz,ontario,capacity|electricity,GW,2035,104.34162163963671
+canoe,nz,ontario,capacity|electricity,GW,2040,110.13059939180552
+canoe,nz,ontario,capacity|electricity,GW,2045,111.08171028126972
+canoe,nz,ontario,capacity|electricity,GW,2050,115.1238537479591
+canoe,nz,prince edward island,capacity|electricity,GW,2025,1.7721576384312572
+canoe,nz,prince edward island,capacity|electricity,GW,2030,2.0402350861358904
+canoe,nz,prince edward island,capacity|electricity,GW,2035,3.0248054517632137
+canoe,nz,prince edward island,capacity|electricity,GW,2040,3.8514741548553135
+canoe,nz,prince edward island,capacity|electricity,GW,2045,4.071954699804193
+canoe,nz,prince edward island,capacity|electricity,GW,2050,4.269415008748737
+canoe,nz,quebec,capacity|electricity,GW,2025,64.60175421510996
+canoe,nz,quebec,capacity|electricity,GW,2030,67.49446440739617
+canoe,nz,quebec,capacity|electricity,GW,2035,69.08858928525159
+canoe,nz,quebec,capacity|electricity,GW,2040,68.62153837739066
+canoe,nz,quebec,capacity|electricity,GW,2045,67.35788704360644
+canoe,nz,quebec,capacity|electricity,GW,2050,67.99941810714427
+canoe,nz,saskatchewan,capacity|electricity,GW,2025,12.072319437815317
+canoe,nz,saskatchewan,capacity|electricity,GW,2030,13.919631174451842
+canoe,nz,saskatchewan,capacity|electricity,GW,2035,16.14860279889875
+canoe,nz,saskatchewan,capacity|electricity,GW,2040,18.20031067000519
+canoe,nz,saskatchewan,capacity|electricity,GW,2045,19.780540214045487
+canoe,nz,saskatchewan,capacity|electricity,GW,2050,22.252074553928452
+canoe,nz,alberta,capacity|electricity|bioenergy,GW,2025,0.4440214065411692
+canoe,nz,alberta,capacity|electricity|bioenergy,GW,2030,0.44404590844459
+canoe,nz,alberta,capacity|electricity|bioenergy,GW,2035,0.44407437445109166
+canoe,nz,alberta,capacity|electricity|bioenergy,GW,2040,0.40110587771721085
+canoe,nz,alberta,capacity|electricity|bioenergy,GW,2045,0.3541395033567617
+canoe,nz,alberta,capacity|electricity|bioenergy,GW,2050,0.3361755076791967
+canoe,nz,alberta,capacity|electricity|coal,GW,2025,4.36
+canoe,nz,alberta,capacity|electricity|coal,GW,2030,3.9520000000000004
+canoe,nz,alberta,capacity|electricity|coal,GW,2035,3.1220000000000003
+canoe,nz,alberta,capacity|electricity|coal,GW,2040,2.7
+canoe,nz,alberta,capacity|electricity|coal,GW,2045,2.2990000000000004
+canoe,nz,alberta,capacity|electricity|coal,GW,2050,1.366
+canoe,nz,alberta,capacity|electricity|hydro,GW,2025,0.9274
+canoe,nz,alberta,capacity|electricity|hydro,GW,2030,0.9274
+canoe,nz,alberta,capacity|electricity|hydro,GW,2035,0.9274
+canoe,nz,alberta,capacity|electricity|hydro,GW,2040,0.9274
+canoe,nz,alberta,capacity|electricity|hydro,GW,2045,0.9274
+canoe,nz,alberta,capacity|electricity|hydro,GW,2050,0.9274
+canoe,nz,alberta,capacity|electricity|interconnection,GW,2025,0.294
+canoe,nz,alberta,capacity|electricity|interconnection,GW,2030,0.294
+canoe,nz,alberta,capacity|electricity|interconnection,GW,2035,0.294
+canoe,nz,alberta,capacity|electricity|interconnection,GW,2040,0.294
+canoe,nz,alberta,capacity|electricity|interconnection,GW,2045,0.294
+canoe,nz,alberta,capacity|electricity|interconnection,GW,2050,0.294
+canoe,nz,alberta,capacity|electricity|natural gas,GW,2025,12.949603655155014
+canoe,nz,alberta,capacity|electricity|natural gas,GW,2030,12.94007733384267
+canoe,nz,alberta,capacity|electricity|natural gas,GW,2035,12.941608483343582
+canoe,nz,alberta,capacity|electricity|natural gas,GW,2040,15.007058292031553
+canoe,nz,alberta,capacity|electricity|natural gas,GW,2045,16.65697309909106
+canoe,nz,alberta,capacity|electricity|natural gas,GW,2050,18.767368410019138
+canoe,nz,alberta,capacity|electricity|renewables,GW,2025,33.85978990061558
+canoe,nz,alberta,capacity|electricity|renewables,GW,2030,39.14644967145656
+canoe,nz,alberta,capacity|electricity|renewables,GW,2035,42.96971652396077
+canoe,nz,alberta,capacity|electricity|renewables,GW,2040,47.10586374002288
+canoe,nz,alberta,capacity|electricity|renewables,GW,2045,50.66305997762832
+canoe,nz,alberta,capacity|electricity|renewables,GW,2050,55.62331257784538
+canoe,nz,alberta,capacity|electricity|storage,GW,2025,0.3702108810689631
+canoe,nz,alberta,capacity|electricity|storage,GW,2030,0.3706939623047303
+canoe,nz,alberta,capacity|electricity|storage,GW,2035,0.25923053112230815
+canoe,nz,alberta,capacity|electricity|storage,GW,2045,0.01045817346171663
+canoe,nz,alberta,capacity|electricity|storage,GW,2050,0.5806350612885776
+canoe,nz,british columbia,capacity|electricity|bioenergy,GW,2025,1.0890134322765488
+canoe,nz,british columbia,capacity|electricity|bioenergy,GW,2030,1.0890396929217694
+canoe,nz,british columbia,capacity|electricity|bioenergy,GW,2035,1.0340681488889694
+canoe,nz,british columbia,capacity|electricity|bioenergy,GW,2040,1.0340989788433015
+canoe,nz,british columbia,capacity|electricity|bioenergy,GW,2045,1.0250322161631622
+canoe,nz,british columbia,capacity|electricity|bioenergy,GW,2050,0.9975083078150366
+canoe,nz,british columbia,capacity|electricity|hydro,GW,2025,16.59751
+canoe,nz,british columbia,capacity|electricity|hydro,GW,2030,16.59751
+canoe,nz,british columbia,capacity|electricity|hydro,GW,2035,16.59751
+canoe,nz,british columbia,capacity|electricity|hydro,GW,2040,16.59751
+canoe,nz,british columbia,capacity|electricity|hydro,GW,2045,16.59751
+canoe,nz,british columbia,capacity|electricity|hydro,GW,2050,16.59751
+canoe,nz,british columbia,capacity|electricity|interconnection,GW,2025,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection,GW,2030,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection,GW,2035,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection,GW,2040,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection,GW,2045,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection,GW,2050,2.376
+canoe,nz,british columbia,capacity|electricity|natural gas,GW,2025,0.4418585940462247
+canoe,nz,british columbia,capacity|electricity|natural gas,GW,2030,1.3181175150360078
+canoe,nz,british columbia,capacity|electricity|natural gas,GW,2035,3.2934845117250404
+canoe,nz,british columbia,capacity|electricity|natural gas,GW,2040,5.286043509056547
+canoe,nz,british columbia,capacity|electricity|natural gas,GW,2045,5.812370109749297
+canoe,nz,british columbia,capacity|electricity|natural gas,GW,2050,6.61200008925954
+canoe,nz,british columbia,capacity|electricity|renewables,GW,2025,7.832592198908834
+canoe,nz,british columbia,capacity|electricity|renewables,GW,2030,10.671943873711944
+canoe,nz,british columbia,capacity|electricity|renewables,GW,2035,14.703228432880678
+canoe,nz,british columbia,capacity|electricity|renewables,GW,2040,20.78401386684201
+canoe,nz,british columbia,capacity|electricity|renewables,GW,2045,24.235003822736157
+canoe,nz,british columbia,capacity|electricity|renewables,GW,2050,29.760733428109152
+canoe,nz,canada,capacity|electricity|bioenergy,GW,2025,2.5570695831535466
+canoe,nz,canada,capacity|electricity|bioenergy,GW,2030,2.5573099285752576
+canoe,nz,canada,capacity|electricity|bioenergy,GW,2035,2.50257336946354
+canoe,nz,canada,capacity|electricity|bioenergy,GW,2040,2.428661380952604
+canoe,nz,canada,capacity|electricity|bioenergy,GW,2045,2.25966596280181
+canoe,nz,canada,capacity|electricity|bioenergy,GW,2050,2.15653912388427
+canoe,nz,canada,capacity|electricity|coal,GW,2025,6.453
+canoe,nz,canada,capacity|electricity|coal,GW,2030,5.742
+canoe,nz,canada,capacity|electricity|coal,GW,2035,4.636
+canoe,nz,canada,capacity|electricity|coal,GW,2040,3.748
+canoe,nz,canada,capacity|electricity|coal,GW,2045,3.3470000000000004
+canoe,nz,canada,capacity|electricity|coal,GW,2050,2.13
+canoe,nz,canada,capacity|electricity|hydro,GW,2025,81.30393000000001
+canoe,nz,canada,capacity|electricity|hydro,GW,2030,81.30393000000001
+canoe,nz,canada,capacity|electricity|hydro,GW,2035,81.30393
+canoe,nz,canada,capacity|electricity|hydro,GW,2040,81.30393000000001
+canoe,nz,canada,capacity|electricity|hydro,GW,2045,81.30393000000001
+canoe,nz,canada,capacity|electricity|hydro,GW,2050,81.30393000000001
+canoe,nz,canada,capacity|electricity|interconnection,GW,2025,28.286
+canoe,nz,canada,capacity|electricity|interconnection,GW,2030,28.286
+canoe,nz,canada,capacity|electricity|interconnection,GW,2035,28.286
+canoe,nz,canada,capacity|electricity|interconnection,GW,2040,28.286
+canoe,nz,canada,capacity|electricity|interconnection,GW,2045,28.286
+canoe,nz,canada,capacity|electricity|interconnection,GW,2050,28.286
+canoe,nz,canada,capacity|electricity|natural gas,GW,2025,38.08016925560215
+canoe,nz,canada,capacity|electricity|natural gas,GW,2030,46.59896243671605
+canoe,nz,canada,capacity|electricity|natural gas,GW,2035,57.63944245645695
+canoe,nz,canada,capacity|electricity|natural gas,GW,2040,64.5929953399565
+canoe,nz,canada,capacity|electricity|natural gas,GW,2045,67.04944441333201
+canoe,nz,canada,capacity|electricity|natural gas,GW,2050,69.83388172574357
+canoe,nz,canada,capacity|electricity|nuclear,GW,2025,12.073010145172764
+canoe,nz,canada,capacity|electricity|nuclear,GW,2030,8.971027545786777
+canoe,nz,canada,capacity|electricity|nuclear,GW,2035,7.325083845994353
+canoe,nz,canada,capacity|electricity|nuclear,GW,2040,12.96830020490621
+canoe,nz,canada,capacity|electricity|nuclear,GW,2045,16.58134810862678
+canoe,nz,canada,capacity|electricity|nuclear,GW,2050,20.08287712554223
+canoe,nz,canada,capacity|electricity|oil,GW,2025,1.9286
+canoe,nz,canada,capacity|electricity|oil,GW,2030,1.9194
+canoe,nz,canada,capacity|electricity|oil,GW,2035,1.3994
+canoe,nz,canada,capacity|electricity|oil,GW,2040,1.3994
+canoe,nz,canada,capacity|electricity|oil,GW,2045,1.2837
+canoe,nz,canada,capacity|electricity|oil,GW,2050,1.2267
+canoe,nz,canada,capacity|electricity|renewables,GW,2025,94.20770985986307
+canoe,nz,canada,capacity|electricity|renewables,GW,2030,126.29624021251928
+canoe,nz,canada,capacity|electricity|renewables,GW,2035,162.00591493286436
+canoe,nz,canada,capacity|electricity|renewables,GW,2040,173.52671013908753
+canoe,nz,canada,capacity|electricity|renewables,GW,2045,178.54825662855265
+canoe,nz,canada,capacity|electricity|renewables,GW,2050,193.0439314194726
+canoe,nz,canada,capacity|electricity|storage,GW,2025,0.6732767195594347
+canoe,nz,canada,capacity|electricity|storage,GW,2030,0.723045944186766
+canoe,nz,canada,capacity|electricity|storage,GW,2035,0.6775150016931643
+canoe,nz,canada,capacity|electricity|storage,GW,2040,0.5998552321758474
+canoe,nz,canada,capacity|electricity|storage,GW,2045,1.0540594633959737
+canoe,nz,canada,capacity|electricity|storage,GW,2050,3.290258412768445
+canoe,nz,manitoba,capacity|electricity|hydro,GW,2025,6.104
+canoe,nz,manitoba,capacity|electricity|hydro,GW,2030,6.104
+canoe,nz,manitoba,capacity|electricity|hydro,GW,2035,6.104
+canoe,nz,manitoba,capacity|electricity|hydro,GW,2040,6.104000000000001
+canoe,nz,manitoba,capacity|electricity|hydro,GW,2045,6.104000000000001
+canoe,nz,manitoba,capacity|electricity|hydro,GW,2050,6.104
+canoe,nz,manitoba,capacity|electricity|natural gas,GW,2025,0.9331934000491812
+canoe,nz,manitoba,capacity|electricity|natural gas,GW,2030,1.1239420790434989
+canoe,nz,manitoba,capacity|electricity|natural gas,GW,2035,1.1712104220113875
+canoe,nz,manitoba,capacity|electricity|natural gas,GW,2040,1.3311301476991804
+canoe,nz,manitoba,capacity|electricity|natural gas,GW,2045,1.3449222394417892
+canoe,nz,manitoba,capacity|electricity|natural gas,GW,2050,1.4033363153404506
+canoe,nz,manitoba,capacity|electricity|renewables,GW,2025,1.514000784728097
+canoe,nz,manitoba,capacity|electricity|renewables,GW,2030,1.6168979599900029
+canoe,nz,manitoba,capacity|electricity|renewables,GW,2035,1.642271487989591
+canoe,nz,manitoba,capacity|electricity|renewables,GW,2040,2.0932931623845246
+canoe,nz,manitoba,capacity|electricity|renewables,GW,2045,2.2915916714698055
+canoe,nz,manitoba,capacity|electricity|renewables,GW,2050,2.7288010870239483
+canoe,nz,new brunswick,capacity|electricity|bioenergy,GW,2025,0.12081931024442245
+canoe,nz,new brunswick,capacity|electricity|bioenergy,GW,2030,0.12084093010305295
+canoe,nz,new brunswick,capacity|electricity|bioenergy,GW,2035,0.12086533259695709
+canoe,nz,new brunswick,capacity|electricity|bioenergy,GW,2040,0.1208936529658158
+canoe,nz,new brunswick,capacity|electricity|bioenergy,GW,2045,0.12092430989453669
+canoe,nz,new brunswick,capacity|electricity|bioenergy,GW,2050,0.12095712915451133
+canoe,nz,new brunswick,capacity|electricity|coal,GW,2025,0.466
+canoe,nz,new brunswick,capacity|electricity|coal,GW,2030,0.466
+canoe,nz,new brunswick,capacity|electricity|coal,GW,2035,0.466
+canoe,nz,new brunswick,capacity|electricity|hydro,GW,2025,0.9431
+canoe,nz,new brunswick,capacity|electricity|hydro,GW,2030,0.9431
+canoe,nz,new brunswick,capacity|electricity|hydro,GW,2035,0.9431
+canoe,nz,new brunswick,capacity|electricity|hydro,GW,2040,0.9431
+canoe,nz,new brunswick,capacity|electricity|hydro,GW,2045,0.9431
+canoe,nz,new brunswick,capacity|electricity|hydro,GW,2050,0.9431
+canoe,nz,new brunswick,capacity|electricity|interconnection,GW,2025,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection,GW,2030,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection,GW,2035,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection,GW,2040,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection,GW,2045,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection,GW,2050,0.229
+canoe,nz,new brunswick,capacity|electricity|natural gas,GW,2025,0.41619293444703076
+canoe,nz,new brunswick,capacity|electricity|natural gas,GW,2030,0.4164434271488779
+canoe,nz,new brunswick,capacity|electricity|natural gas,GW,2035,0.3888342739913092
+canoe,nz,new brunswick,capacity|electricity|natural gas,GW,2040,0.4753792517628308
+canoe,nz,new brunswick,capacity|electricity|natural gas,GW,2045,0.3427542726654927
+canoe,nz,new brunswick,capacity|electricity|natural gas,GW,2050,0.25906897172625865
+canoe,nz,new brunswick,capacity|electricity|nuclear,GW,2025,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear,GW,2030,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear,GW,2035,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear,GW,2040,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear,GW,2045,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear,GW,2050,0.66
+canoe,nz,new brunswick,capacity|electricity|oil,GW,2025,0.5
+canoe,nz,new brunswick,capacity|electricity|oil,GW,2030,0.495
+canoe,nz,new brunswick,capacity|electricity|renewables,GW,2025,3.2161269449646017
+canoe,nz,new brunswick,capacity|electricity|renewables,GW,2030,3.242803234344103
+canoe,nz,new brunswick,capacity|electricity|renewables,GW,2035,3.5707860645605525
+canoe,nz,new brunswick,capacity|electricity|renewables,GW,2040,4.041112320015182
+canoe,nz,new brunswick,capacity|electricity|renewables,GW,2045,4.573471494664423
+canoe,nz,new brunswick,capacity|electricity|renewables,GW,2050,5.0352960770188515
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy,GW,2025,0.015318881264991004
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy,GW,2030,0.015338022999743305
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy,GW,2035,0.01535893176055708
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy,GW,2040,0.015381752951694872
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy,GW,2045,0.015406598054049241
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy,GW,2050,0.015433800756986568
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro,GW,2025,7.55612
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro,GW,2030,7.55612
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro,GW,2035,7.55612
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro,GW,2040,7.55612
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro,GW,2045,7.55612
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro,GW,2050,7.55612
+canoe,nz,newfoundland and labrador,capacity|electricity|oil,GW,2025,0.8107000000000001
+canoe,nz,newfoundland and labrador,capacity|electricity|oil,GW,2030,0.8107
+canoe,nz,newfoundland and labrador,capacity|electricity|oil,GW,2035,0.7857000000000001
+canoe,nz,newfoundland and labrador,capacity|electricity|oil,GW,2040,0.7857000000000001
+canoe,nz,newfoundland and labrador,capacity|electricity|oil,GW,2045,0.7807
+canoe,nz,newfoundland and labrador,capacity|electricity|oil,GW,2050,0.7727
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables,GW,2025,0.05688083325387367
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables,GW,2030,0.059954800397728804
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables,GW,2035,0.06355492589047491
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables,GW,2040,0.013714881212695361
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables,GW,2045,0.018516927650499813
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables,GW,2050,0.024093316727577124
+canoe,nz,nova scotia,capacity|electricity|bioenergy,GW,2025,0.09501765391864367
+canoe,nz,nova scotia,capacity|electricity|bioenergy,GW,2030,0.09503680527230667
+canoe,nz,nova scotia,capacity|electricity|bioenergy,GW,2035,0.09505772425561991
+canoe,nz,nova scotia,capacity|electricity|bioenergy,GW,2040,0.06388050550051645
+canoe,nz,nova scotia,capacity|electricity|bioenergy,GW,2045,0.06390530140417167
+canoe,nz,nova scotia,capacity|electricity|bioenergy,GW,2050,0.06393237973691275
+canoe,nz,nova scotia,capacity|electricity|coal,GW,2025,0.9279999999999999
+canoe,nz,nova scotia,capacity|electricity|coal,GW,2030,0.625
+canoe,nz,nova scotia,capacity|electricity|coal,GW,2035,0.625
+canoe,nz,nova scotia,capacity|electricity|coal,GW,2040,0.625
+canoe,nz,nova scotia,capacity|electricity|coal,GW,2045,0.625
+canoe,nz,nova scotia,capacity|electricity|coal,GW,2050,0.625
+canoe,nz,nova scotia,capacity|electricity|hydro,GW,2025,0.17495
+canoe,nz,nova scotia,capacity|electricity|hydro,GW,2030,0.17495
+canoe,nz,nova scotia,capacity|electricity|hydro,GW,2035,0.17495
+canoe,nz,nova scotia,capacity|electricity|hydro,GW,2040,0.17495
+canoe,nz,nova scotia,capacity|electricity|hydro,GW,2045,0.17495
+canoe,nz,nova scotia,capacity|electricity|hydro,GW,2050,0.17495
+canoe,nz,nova scotia,capacity|electricity|natural gas,GW,2025,0.4355363710631938
+canoe,nz,nova scotia,capacity|electricity|natural gas,GW,2030,0.47036275741135325
+canoe,nz,nova scotia,capacity|electricity|natural gas,GW,2035,0.5566483800509724
+canoe,nz,nova scotia,capacity|electricity|natural gas,GW,2040,0.8370447413344243
+canoe,nz,nova scotia,capacity|electricity|natural gas,GW,2045,0.9452912145849889
+canoe,nz,nova scotia,capacity|electricity|natural gas,GW,2050,1.0049318086952348
+canoe,nz,nova scotia,capacity|electricity|oil,GW,2025,0.5539999999999999
+canoe,nz,nova scotia,capacity|electricity|oil,GW,2030,0.5539999999999999
+canoe,nz,nova scotia,capacity|electricity|oil,GW,2035,0.5539999999999999
+canoe,nz,nova scotia,capacity|electricity|oil,GW,2040,0.554
+canoe,nz,nova scotia,capacity|electricity|oil,GW,2045,0.45399999999999996
+canoe,nz,nova scotia,capacity|electricity|oil,GW,2050,0.45399999999999996
+canoe,nz,nova scotia,capacity|electricity|renewables,GW,2025,2.474654977313281
+canoe,nz,nova scotia,capacity|electricity|renewables,GW,2030,3.52215455241107
+canoe,nz,nova scotia,capacity|electricity|renewables,GW,2035,4.214205080925017
+canoe,nz,nova scotia,capacity|electricity|renewables,GW,2040,4.630047225002702
+canoe,nz,nova scotia,capacity|electricity|renewables,GW,2045,4.644121214841803
+canoe,nz,nova scotia,capacity|electricity|renewables,GW,2050,4.918139699677425
+canoe,nz,nova scotia,capacity|electricity|storage,GW,2045,0.01177680130940222
+canoe,nz,nova scotia,capacity|electricity|storage,GW,2050,0.1049519930393174
+canoe,nz,ontario,capacity|electricity|bioenergy,GW,2025,0.3235346550000041
+canoe,nz,ontario,capacity|electricity|bioenergy,GW,2030,0.32356166793572694
+canoe,nz,ontario,capacity|electricity|bioenergy,GW,2035,0.3235909565997098
+canoe,nz,ontario,capacity|electricity|bioenergy,GW,2040,0.32362264973236743
+canoe,nz,ontario,capacity|electricity|bioenergy,GW,2045,0.3143563425465291
+canoe,nz,ontario,capacity|electricity|bioenergy,GW,2050,0.31119368816591214
+canoe,nz,ontario,capacity|electricity|hydro,GW,2025,7.81513
+canoe,nz,ontario,capacity|electricity|hydro,GW,2030,7.81513
+canoe,nz,ontario,capacity|electricity|hydro,GW,2035,7.81513
+canoe,nz,ontario,capacity|electricity|hydro,GW,2040,7.81513
+canoe,nz,ontario,capacity|electricity|hydro,GW,2045,7.81513
+canoe,nz,ontario,capacity|electricity|hydro,GW,2050,7.81513
+canoe,nz,ontario,capacity|electricity|interconnection,GW,2025,0.52
+canoe,nz,ontario,capacity|electricity|interconnection,GW,2030,0.52
+canoe,nz,ontario,capacity|electricity|interconnection,GW,2035,0.52
+canoe,nz,ontario,capacity|electricity|interconnection,GW,2040,0.52
+canoe,nz,ontario,capacity|electricity|interconnection,GW,2045,0.52
+canoe,nz,ontario,capacity|electricity|interconnection,GW,2050,0.52
+canoe,nz,ontario,capacity|electricity|natural gas,GW,2025,16.34056789873677
+canoe,nz,ontario,capacity|electricity|natural gas,GW,2030,23.01859592343699
+canoe,nz,ontario,capacity|electricity|natural gas,GW,2035,30.96737788716875
+canoe,nz,ontario,capacity|electricity|natural gas,GW,2040,32.56376961448061
+canoe,nz,ontario,capacity|electricity|natural gas,GW,2045,32.52024130411403
+canoe,nz,ontario,capacity|electricity|natural gas,GW,2050,32.64143815345315
+canoe,nz,ontario,capacity|electricity|nuclear,GW,2025,11.413010145172764
+canoe,nz,ontario,capacity|electricity|nuclear,GW,2030,8.311027545786777
+canoe,nz,ontario,capacity|electricity|nuclear,GW,2035,6.665083845994353
+canoe,nz,ontario,capacity|electricity|nuclear,GW,2040,12.30830020490621
+canoe,nz,ontario,capacity|electricity|nuclear,GW,2045,15.92134810862678
+canoe,nz,ontario,capacity|electricity|nuclear,GW,2050,19.422820696739983
+canoe,nz,ontario,capacity|electricity|renewables,GW,2025,16.486680431283006
+canoe,nz,ontario,capacity|electricity|renewables,GW,2030,35.060707321361484
+canoe,nz,ontario,capacity|electricity|renewables,GW,2035,57.849153597150035
+canoe,nz,ontario,capacity|electricity|renewables,GW,2040,56.29766807117153
+canoe,nz,ontario,capacity|electricity|renewables,GW,2045,53.25499896978245
+canoe,nz,ontario,capacity|electricity|renewables,GW,2050,52.53743004477853
+canoe,nz,ontario,capacity|electricity|storage,GW,2025,0.20722709949751605
+canoe,nz,ontario,capacity|electricity|storage,GW,2030,0.1965401223719919
+canoe,nz,ontario,capacity|electricity|storage,GW,2035,0.20128535272386555
+canoe,nz,ontario,capacity|electricity|storage,GW,2040,0.3021088515147957
+canoe,nz,ontario,capacity|electricity|storage,GW,2045,0.7356355561999264
+canoe,nz,ontario,capacity|electricity|storage,GW,2050,1.8758411648215252
+canoe,nz,prince edward island,capacity|electricity|natural gas,GW,2025,0.48120913649338404
+canoe,nz,prince edward island,capacity|electricity|natural gas,GW,2030,0.594001513022775
+canoe,nz,prince edward island,capacity|electricity|natural gas,GW,2035,0.7979336074717341
+canoe,nz,prince edward island,capacity|electricity|natural gas,GW,2040,0.9527074719937064
+canoe,nz,prince edward island,capacity|electricity|natural gas,GW,2045,0.954238185695338
+canoe,nz,prince edward island,capacity|electricity|natural gas,GW,2050,0.9555945243500636
+canoe,nz,prince edward island,capacity|electricity|oil,GW,2025,0.0639
+canoe,nz,prince edward island,capacity|electricity|oil,GW,2030,0.0597
+canoe,nz,prince edward island,capacity|electricity|oil,GW,2035,0.0597
+canoe,nz,prince edward island,capacity|electricity|oil,GW,2040,0.0597
+canoe,nz,prince edward island,capacity|electricity|oil,GW,2045,0.049
+canoe,nz,prince edward island,capacity|electricity|renewables,GW,2025,1.2125296367641694
+canoe,nz,prince edward island,capacity|electricity|renewables,GW,2030,1.3362731248270452
+canoe,nz,prince edward island,capacity|electricity|renewables,GW,2035,2.058486937243276
+canoe,nz,prince edward island,capacity|electricity|renewables,GW,2040,2.5882110160797906
+canoe,nz,prince edward island,capacity|electricity|renewables,GW,2045,2.803687453776229
+canoe,nz,prince edward island,capacity|electricity|renewables,GW,2050,2.9541349002980994
+canoe,nz,prince edward island,capacity|electricity|storage,GW,2025,0.014496756939151176
+canoe,nz,prince edward island,capacity|electricity|storage,GW,2030,0.0502142262866809
+canoe,nz,prince edward island,capacity|electricity|storage,GW,2035,0.10861241067768193
+canoe,nz,prince edward island,capacity|electricity|storage,GW,2040,0.2507545767284665
+canoe,nz,prince edward island,capacity|electricity|storage,GW,2045,0.26489835532298067
+canoe,nz,prince edward island,capacity|electricity|storage,GW,2050,0.3595225515838751
+canoe,nz,quebec,capacity|electricity|bioenergy,GW,2025,0.44267519292234336
+canoe,nz,quebec,capacity|electricity|bioenergy,GW,2030,0.44270251738760025
+canoe,nz,quebec,capacity|electricity|bioenergy,GW,2035,0.44273216086977185
+canoe,nz,quebec,capacity|electricity|bioenergy,GW,2040,0.4427642120669546
+canoe,nz,quebec,capacity|electricity|bioenergy,GW,2045,0.343895054452977
+canoe,nz,quebec,capacity|electricity|bioenergy,GW,2050,0.30423343486082927
+canoe,nz,quebec,capacity|electricity|hydro,GW,2025,40.456720000000004
+canoe,nz,quebec,capacity|electricity|hydro,GW,2030,40.456720000000004
+canoe,nz,quebec,capacity|electricity|hydro,GW,2035,40.456720000000004
+canoe,nz,quebec,capacity|electricity|hydro,GW,2040,40.456720000000004
+canoe,nz,quebec,capacity|electricity|hydro,GW,2045,40.456720000000004
+canoe,nz,quebec,capacity|electricity|hydro,GW,2050,40.456720000000004
+canoe,nz,quebec,capacity|electricity|interconnection,GW,2025,0.366
+canoe,nz,quebec,capacity|electricity|interconnection,GW,2030,0.366
+canoe,nz,quebec,capacity|electricity|interconnection,GW,2035,0.366
+canoe,nz,quebec,capacity|electricity|interconnection,GW,2040,0.366
+canoe,nz,quebec,capacity|electricity|interconnection,GW,2045,0.366
+canoe,nz,quebec,capacity|electricity|interconnection,GW,2050,0.366
+canoe,nz,quebec,capacity|electricity|natural gas,GW,2025,3.8599164806470907
+canoe,nz,quebec,capacity|electricity|natural gas,GW,2030,3.9991867123470515
+canoe,nz,quebec,capacity|electricity|natural gas,GW,2035,4.012380989635404
+canoe,nz,quebec,capacity|electricity|natural gas,GW,2040,3.7278878577558334
+canoe,nz,quebec,capacity|electricity|natural gas,GW,2045,3.7282733130385015
+canoe,nz,quebec,capacity|electricity|natural gas,GW,2050,3.1771292454142817
+canoe,nz,quebec,capacity|electricity|renewables,GW,2025,19.476217116291725
+canoe,nz,quebec,capacity|electricity|renewables,GW,2030,22.22940369787862
+canoe,nz,quebec,capacity|electricity|renewables,GW,2035,23.81002641081156
+canoe,nz,quebec,capacity|electricity|renewables,GW,2040,23.62731563307684
+canoe,nz,quebec,capacity|electricity|renewables,GW,2045,22.46196816628805
+canoe,nz,quebec,capacity|electricity|renewables,GW,2050,23.694105121520412
+canoe,nz,saskatchewan,capacity|electricity|bioenergy,GW,2025,0.026624083970900367
+canoe,nz,saskatchewan,capacity|electricity|bioenergy,GW,2030,0.026650653970327762
+canoe,nz,saskatchewan,capacity|electricity|bioenergy,GW,2035,0.026679266614503528
+canoe,nz,saskatchewan,capacity|electricity|bioenergy,GW,2040,0.026710131092429056
+canoe,nz,saskatchewan,capacity|electricity|bioenergy,GW,2045,0.02174258383006
+canoe,nz,saskatchewan,capacity|electricity|coal,GW,2025,0.6990000000000001
+canoe,nz,saskatchewan,capacity|electricity|coal,GW,2030,0.6990000000000001
+canoe,nz,saskatchewan,capacity|electricity|coal,GW,2035,0.42300000000000004
+canoe,nz,saskatchewan,capacity|electricity|coal,GW,2040,0.42300000000000004
+canoe,nz,saskatchewan,capacity|electricity|coal,GW,2045,0.42300000000000004
+canoe,nz,saskatchewan,capacity|electricity|coal,GW,2050,0.139
+canoe,nz,saskatchewan,capacity|electricity|hydro,GW,2025,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro,GW,2030,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro,GW,2035,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro,GW,2040,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro,GW,2045,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro,GW,2050,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|interconnection,GW,2025,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection,GW,2030,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection,GW,2035,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection,GW,2040,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection,GW,2045,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection,GW,2050,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|natural gas,GW,2025,2.221915695733792
+canoe,nz,saskatchewan,capacity|electricity|natural gas,GW,2030,2.7179036234851868
+canoe,nz,saskatchewan,capacity|electricity|natural gas,GW,2035,3.5094542016756343
+canoe,nz,saskatchewan,capacity|electricity|natural gas,GW,2040,4.411265404419044
+canoe,nz,saskatchewan,capacity|electricity|natural gas,GW,2045,4.743448765945634
+canoe,nz,saskatchewan,capacity|electricity|natural gas,GW,2050,5.011830102465217
+canoe,nz,saskatchewan,capacity|electricity|renewables,GW,2025,8.078237035739916
+canoe,nz,saskatchewan,capacity|electricity|renewables,GW,2030,9.409651976140719
+canoe,nz,saskatchewan,capacity|electricity|renewables,GW,2035,11.124485471452413
+canoe,nz,saskatchewan,capacity|electricity|renewables,GW,2040,12.345470223279369
+canoe,nz,saskatchewan,capacity|electricity|renewables,GW,2045,13.601836929714922
+canoe,nz,saskatchewan,capacity|electricity|renewables,GW,2050,15.767885166473237
+canoe,nz,saskatchewan,capacity|electricity|storage,GW,2025,0.07854262237070943
+canoe,nz,saskatchewan,capacity|electricity|storage,GW,2030,0.09842492085560739
+canoe,nz,saskatchewan,capacity|electricity|storage,GW,2035,0.09698385915619848
+canoe,nz,saskatchewan,capacity|electricity|storage,GW,2040,0.025864911214349383
+canoe,nz,saskatchewan,capacity|electricity|storage,GW,2045,0.022511934554869797
+canoe,nz,saskatchewan,capacity|electricity|storage,GW,2050,0.3585839043173672
+canoe,nz,alberta,capacity|electricity|bioenergy|biomass,GW,2025,0.4440214065411692
+canoe,nz,alberta,capacity|electricity|bioenergy|biomass,GW,2030,0.44404590844459
+canoe,nz,alberta,capacity|electricity|bioenergy|biomass,GW,2035,0.44407437445109166
+canoe,nz,alberta,capacity|electricity|bioenergy|biomass,GW,2040,0.40110587771721085
+canoe,nz,alberta,capacity|electricity|bioenergy|biomass,GW,2045,0.3541395033567617
+canoe,nz,alberta,capacity|electricity|bioenergy|biomass,GW,2050,0.3361755076791967
+canoe,nz,alberta,capacity|electricity|coal|coal,GW,2025,4.36
+canoe,nz,alberta,capacity|electricity|coal|coal,GW,2030,3.9520000000000004
+canoe,nz,alberta,capacity|electricity|coal|coal,GW,2035,3.1220000000000003
+canoe,nz,alberta,capacity|electricity|coal|coal,GW,2040,2.7
+canoe,nz,alberta,capacity|electricity|coal|coal,GW,2045,2.2990000000000004
+canoe,nz,alberta,capacity|electricity|coal|coal,GW,2050,1.366
+canoe,nz,alberta,capacity|electricity|hydro|reservoir,GW,2025,0.781
+canoe,nz,alberta,capacity|electricity|hydro|reservoir,GW,2030,0.781
+canoe,nz,alberta,capacity|electricity|hydro|reservoir,GW,2035,0.781
+canoe,nz,alberta,capacity|electricity|hydro|reservoir,GW,2040,0.781
+canoe,nz,alberta,capacity|electricity|hydro|reservoir,GW,2045,0.781
+canoe,nz,alberta,capacity|electricity|hydro|reservoir,GW,2050,0.781
+canoe,nz,alberta,capacity|electricity|hydro|run of river,GW,2025,0.1464
+canoe,nz,alberta,capacity|electricity|hydro|run of river,GW,2030,0.1464
+canoe,nz,alberta,capacity|electricity|hydro|run of river,GW,2035,0.1464
+canoe,nz,alberta,capacity|electricity|hydro|run of river,GW,2040,0.1464
+canoe,nz,alberta,capacity|electricity|hydro|run of river,GW,2045,0.1464
+canoe,nz,alberta,capacity|electricity|hydro|run of river,GW,2050,0.1464
+canoe,nz,alberta,capacity|electricity|interconnection|interconnection,GW,2025,0.294
+canoe,nz,alberta,capacity|electricity|interconnection|interconnection,GW,2030,0.294
+canoe,nz,alberta,capacity|electricity|interconnection|interconnection,GW,2035,0.294
+canoe,nz,alberta,capacity|electricity|interconnection|interconnection,GW,2040,0.294
+canoe,nz,alberta,capacity|electricity|interconnection|interconnection,GW,2045,0.294
+canoe,nz,alberta,capacity|electricity|interconnection|interconnection,GW,2050,0.294
+canoe,nz,alberta,capacity|electricity|natural gas|cogeneration,GW,2025,5.04905
+canoe,nz,alberta,capacity|electricity|natural gas|cogeneration,GW,2030,5.04905
+canoe,nz,alberta,capacity|electricity|natural gas|cogeneration,GW,2035,5.04905
+canoe,nz,alberta,capacity|electricity|natural gas|cogeneration,GW,2040,5.04905
+canoe,nz,alberta,capacity|electricity|natural gas|cogeneration,GW,2045,3.08705
+canoe,nz,alberta,capacity|electricity|natural gas|cogeneration,GW,2050,1.99105
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle,GW,2025,6.102330583434561
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle,GW,2030,6.102528910331214
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle,GW,2035,6.103057106197525
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle,GW,2040,6.104079777618483
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle,GW,2045,5.454606778165508
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle,GW,2050,5.45525243232865
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle ccs,GW,2040,0.5685183310301383
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle ccs,GW,2045,5.019959566967683
+canoe,nz,alberta,capacity|electricity|natural gas|combined cycle ccs,GW,2050,8.225235333719276
+canoe,nz,alberta,capacity|electricity|natural gas|combustion turbine,GW,2025,1.7980598179071459
+canoe,nz,alberta,capacity|electricity|natural gas|combustion turbine,GW,2030,1.7881584240390243
+canoe,nz,alberta,capacity|electricity|natural gas|combustion turbine,GW,2035,1.788699059740489
+canoe,nz,alberta,capacity|electricity|natural gas|combustion turbine,GW,2040,3.2854101833829326
+canoe,nz,alberta,capacity|electricity|natural gas|combustion turbine,GW,2045,3.095356753957872
+canoe,nz,alberta,capacity|electricity|natural gas|combustion turbine,GW,2050,3.0958306439712135
+canoe,nz,alberta,capacity|electricity|renewables|solar PV,GW,2025,1.7050225343029104
+canoe,nz,alberta,capacity|electricity|renewables|solar PV,GW,2030,3.440275566738718
+canoe,nz,alberta,capacity|electricity|renewables|solar PV,GW,2035,7.590440014092967
+canoe,nz,alberta,capacity|electricity|renewables|solar PV,GW,2040,12.390016759650397
+canoe,nz,alberta,capacity|electricity|renewables|solar PV,GW,2045,16.307513952757024
+canoe,nz,alberta,capacity|electricity|renewables|solar PV,GW,2050,22.676386680426866
+canoe,nz,alberta,capacity|electricity|renewables|wind onshore,GW,2025,32.15476736631267
+canoe,nz,alberta,capacity|electricity|renewables|wind onshore,GW,2030,35.706174104717846
+canoe,nz,alberta,capacity|electricity|renewables|wind onshore,GW,2035,35.37927650986781
+canoe,nz,alberta,capacity|electricity|renewables|wind onshore,GW,2040,34.71584698037248
+canoe,nz,alberta,capacity|electricity|renewables|wind onshore,GW,2045,34.355546024871295
+canoe,nz,alberta,capacity|electricity|renewables|wind onshore,GW,2050,32.94692589741852
+canoe,nz,alberta,capacity|electricity|storage|battery storage,GW,2025,0.3702108810689631
+canoe,nz,alberta,capacity|electricity|storage|battery storage,GW,2030,0.3706939623047303
+canoe,nz,alberta,capacity|electricity|storage|battery storage,GW,2035,0.25923053112230815
+canoe,nz,alberta,capacity|electricity|storage|battery storage,GW,2045,0.01045817346171663
+canoe,nz,alberta,capacity|electricity|storage|battery storage,GW,2050,0.5806350612885776
+canoe,nz,british columbia,capacity|electricity|bioenergy|biogas,GW,2025,0.023190000000000002
+canoe,nz,british columbia,capacity|electricity|bioenergy|biogas,GW,2030,0.023190000000000002
+canoe,nz,british columbia,capacity|electricity|bioenergy|biogas,GW,2035,0.023190000000000002
+canoe,nz,british columbia,capacity|electricity|bioenergy|biogas,GW,2040,0.023190000000000002
+canoe,nz,british columbia,capacity|electricity|bioenergy|biogas,GW,2045,0.01589
+canoe,nz,british columbia,capacity|electricity|bioenergy|biogas,GW,2050,0.01463
+canoe,nz,british columbia,capacity|electricity|bioenergy|biomass,GW,2025,1.0658234322765487
+canoe,nz,british columbia,capacity|electricity|bioenergy|biomass,GW,2030,1.0658496929217696
+canoe,nz,british columbia,capacity|electricity|bioenergy|biomass,GW,2035,1.0108781488889693
+canoe,nz,british columbia,capacity|electricity|bioenergy|biomass,GW,2040,1.0109089788433017
+canoe,nz,british columbia,capacity|electricity|bioenergy|biomass,GW,2045,1.0091422161631622
+canoe,nz,british columbia,capacity|electricity|bioenergy|biomass,GW,2050,0.9828783078150366
+canoe,nz,british columbia,capacity|electricity|hydro|reservoir,GW,2025,14.795490000000001
+canoe,nz,british columbia,capacity|electricity|hydro|reservoir,GW,2030,14.795490000000001
+canoe,nz,british columbia,capacity|electricity|hydro|reservoir,GW,2035,14.795490000000001
+canoe,nz,british columbia,capacity|electricity|hydro|reservoir,GW,2040,14.795490000000001
+canoe,nz,british columbia,capacity|electricity|hydro|reservoir,GW,2045,14.795490000000001
+canoe,nz,british columbia,capacity|electricity|hydro|reservoir,GW,2050,14.795490000000001
+canoe,nz,british columbia,capacity|electricity|hydro|run of river,GW,2025,1.80202
+canoe,nz,british columbia,capacity|electricity|hydro|run of river,GW,2030,1.80202
+canoe,nz,british columbia,capacity|electricity|hydro|run of river,GW,2035,1.80202
+canoe,nz,british columbia,capacity|electricity|hydro|run of river,GW,2040,1.80202
+canoe,nz,british columbia,capacity|electricity|hydro|run of river,GW,2045,1.80202
+canoe,nz,british columbia,capacity|electricity|hydro|run of river,GW,2050,1.80202
+canoe,nz,british columbia,capacity|electricity|interconnection|interconnection,GW,2025,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection|interconnection,GW,2030,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection|interconnection,GW,2035,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection|interconnection,GW,2040,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection|interconnection,GW,2045,2.376
+canoe,nz,british columbia,capacity|electricity|interconnection|interconnection,GW,2050,2.376
+canoe,nz,british columbia,capacity|electricity|natural gas|cogeneration,GW,2025,0.12
+canoe,nz,british columbia,capacity|electricity|natural gas|cogeneration,GW,2030,0.12
+canoe,nz,british columbia,capacity|electricity|natural gas|cogeneration,GW,2035,0.12
+canoe,nz,british columbia,capacity|electricity|natural gas|combined cycle,GW,2025,0.275330029456763
+canoe,nz,british columbia,capacity|electricity|natural gas|combined cycle,GW,2030,0.2758751113275943
+canoe,nz,british columbia,capacity|electricity|natural gas|combined cycle,GW,2035,0.2765390133511521
+canoe,nz,british columbia,capacity|electricity|natural gas|combined cycle,GW,2040,0.2773503608738473
+canoe,nz,british columbia,capacity|electricity|natural gas|combustion turbine,GW,2025,0.046410695387959784
+canoe,nz,british columbia,capacity|electricity|natural gas|combustion turbine,GW,2030,0.9219774512303296
+canoe,nz,british columbia,capacity|electricity|natural gas|combustion turbine,GW,2035,2.8965610659056287
+canoe,nz,british columbia,capacity|electricity|natural gas|combustion turbine,GW,2040,5.008170995433452
+canoe,nz,british columbia,capacity|electricity|natural gas|combustion turbine,GW,2045,5.808483351402434
+canoe,nz,british columbia,capacity|electricity|natural gas|combustion turbine,GW,2050,6.606940061210649
+canoe,nz,british columbia,capacity|electricity|renewables|solar PV,GW,2030,1.1549979816514442
+canoe,nz,british columbia,capacity|electricity|renewables|solar PV,GW,2035,5.173831191848005
+canoe,nz,british columbia,capacity|electricity|renewables|solar PV,GW,2040,11.660066878014641
+canoe,nz,british columbia,capacity|electricity|renewables|solar PV,GW,2045,15.3821865158565
+canoe,nz,british columbia,capacity|electricity|renewables|solar PV,GW,2050,20.94006303415732
+canoe,nz,british columbia,capacity|electricity|renewables|wind onshore,GW,2025,7.829165152808817
+canoe,nz,british columbia,capacity|electricity|renewables|wind onshore,GW,2030,9.5169458920605
+canoe,nz,british columbia,capacity|electricity|renewables|wind onshore,GW,2035,9.529397241032672
+canoe,nz,british columbia,capacity|electricity|renewables|wind onshore,GW,2040,9.123946988827369
+canoe,nz,british columbia,capacity|electricity|renewables|wind onshore,GW,2045,8.85281730687966
+canoe,nz,british columbia,capacity|electricity|renewables|wind onshore,GW,2050,8.820670393951836
+canoe,nz,canada,capacity|electricity|bioenergy|biogas,GW,2025,0.08009
+canoe,nz,canada,capacity|electricity|bioenergy|biogas,GW,2030,0.08009000000000001
+canoe,nz,canada,capacity|electricity|bioenergy|biogas,GW,2035,0.08009
+canoe,nz,canada,capacity|electricity|bioenergy|biogas,GW,2040,0.08009
+canoe,nz,canada,capacity|electricity|bioenergy|biogas,GW,2045,0.04859
+canoe,nz,canada,capacity|electricity|bioenergy|biogas,GW,2050,0.01943
+canoe,nz,canada,capacity|electricity|bioenergy|biomass,GW,2025,2.476979583153547
+canoe,nz,canada,capacity|electricity|bioenergy|biomass,GW,2030,2.4772199285752574
+canoe,nz,canada,capacity|electricity|bioenergy|biomass,GW,2035,2.42248336946354
+canoe,nz,canada,capacity|electricity|bioenergy|biomass,GW,2040,2.348571380952604
+canoe,nz,canada,capacity|electricity|bioenergy|biomass,GW,2045,2.21107596280181
+canoe,nz,canada,capacity|electricity|bioenergy|biomass,GW,2050,2.1371091238842697
+canoe,nz,canada,capacity|electricity|coal|ccs,GW,2025,0.139
+canoe,nz,canada,capacity|electricity|coal|ccs,GW,2030,0.139
+canoe,nz,canada,capacity|electricity|coal|ccs,GW,2035,0.139
+canoe,nz,canada,capacity|electricity|coal|ccs,GW,2040,0.139
+canoe,nz,canada,capacity|electricity|coal|ccs,GW,2045,0.139
+canoe,nz,canada,capacity|electricity|coal|ccs,GW,2050,0.139
+canoe,nz,canada,capacity|electricity|coal|coal,GW,2025,6.314
+canoe,nz,canada,capacity|electricity|coal|coal,GW,2030,5.603000000000001
+canoe,nz,canada,capacity|electricity|coal|coal,GW,2035,4.497
+canoe,nz,canada,capacity|electricity|coal|coal,GW,2040,3.609
+canoe,nz,canada,capacity|electricity|coal|coal,GW,2045,3.208
+canoe,nz,canada,capacity|electricity|coal|coal,GW,2050,1.991
+canoe,nz,canada,capacity|electricity|hydro|reservoir,GW,2025,71.07002
+canoe,nz,canada,capacity|electricity|hydro|reservoir,GW,2030,71.07002
+canoe,nz,canada,capacity|electricity|hydro|reservoir,GW,2035,71.07002
+canoe,nz,canada,capacity|electricity|hydro|reservoir,GW,2040,71.07002
+canoe,nz,canada,capacity|electricity|hydro|reservoir,GW,2045,71.07002
+canoe,nz,canada,capacity|electricity|hydro|reservoir,GW,2050,71.07002
+canoe,nz,canada,capacity|electricity|hydro|run of river,GW,2025,10.23391
+canoe,nz,canada,capacity|electricity|hydro|run of river,GW,2030,10.23391
+canoe,nz,canada,capacity|electricity|hydro|run of river,GW,2035,10.23391
+canoe,nz,canada,capacity|electricity|hydro|run of river,GW,2040,10.23391
+canoe,nz,canada,capacity|electricity|hydro|run of river,GW,2045,10.23391
+canoe,nz,canada,capacity|electricity|hydro|run of river,GW,2050,10.23391
+canoe,nz,canada,capacity|electricity|interconnection|interconnection,GW,2025,28.286
+canoe,nz,canada,capacity|electricity|interconnection|interconnection,GW,2030,28.286
+canoe,nz,canada,capacity|electricity|interconnection|interconnection,GW,2035,28.286
+canoe,nz,canada,capacity|electricity|interconnection|interconnection,GW,2040,28.286
+canoe,nz,canada,capacity|electricity|interconnection|interconnection,GW,2045,28.286
+canoe,nz,canada,capacity|electricity|interconnection|interconnection,GW,2050,28.286
+canoe,nz,canada,capacity|electricity|natural gas|cogeneration,GW,2025,7.76618
+canoe,nz,canada,capacity|electricity|natural gas|cogeneration,GW,2030,7.76618
+canoe,nz,canada,capacity|electricity|natural gas|cogeneration,GW,2035,7.76618
+canoe,nz,canada,capacity|electricity|natural gas|cogeneration,GW,2040,7.501580000000001
+canoe,nz,canada,capacity|electricity|natural gas|cogeneration,GW,2045,5.25558
+canoe,nz,canada,capacity|electricity|natural gas|cogeneration,GW,2050,3.1680800000000002
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle,GW,2025,12.311034714224176
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle,GW,2030,14.640301676317451
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle,GW,2035,17.16243269964635
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle,GW,2040,16.806037703083664
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle,GW,2045,15.43179286574199
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle,GW,2050,15.459244660418374
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle ccs,GW,2025,0.4664904038219579
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle ccs,GW,2030,0.6156822056988254
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle ccs,GW,2035,4.190411946373918
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle ccs,GW,2040,6.195327206927488
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle ccs,GW,2045,11.489529926455056
+canoe,nz,canada,capacity|electricity|natural gas|combined cycle ccs,GW,2050,15.413440749773685
+canoe,nz,canada,capacity|electricity|natural gas|combustion turbine,GW,2025,17.536464137556017
+canoe,nz,canada,capacity|electricity|natural gas|combustion turbine,GW,2030,23.576798554699774
+canoe,nz,canada,capacity|electricity|natural gas|combustion turbine,GW,2035,28.52041781043668
+canoe,nz,canada,capacity|electricity|natural gas|combustion turbine,GW,2040,34.09005042994535
+canoe,nz,canada,capacity|electricity|natural gas|combustion turbine,GW,2045,34.872541621134964
+canoe,nz,canada,capacity|electricity|natural gas|combustion turbine,GW,2050,35.7931163155515
+canoe,nz,canada,capacity|electricity|nuclear|candu,GW,2025,12.073
+canoe,nz,canada,capacity|electricity|nuclear|candu,GW,2030,8.971
+canoe,nz,canada,capacity|electricity|nuclear|candu,GW,2035,7.325
+canoe,nz,canada,capacity|electricity|nuclear|candu,GW,2040,5.703
+canoe,nz,canada,capacity|electricity|nuclear|candu,GW,2045,2.422
+canoe,nz,canada,capacity|electricity|nuclear|candu,GW,2050,2.422
+canoe,nz,canada,capacity|electricity|nuclear|smr,GW,2040,7.265261258298055
+canoe,nz,canada,capacity|electricity|nuclear|smr,GW,2045,14.159309162018626
+canoe,nz,canada,capacity|electricity|nuclear|smr,GW,2050,17.660838178934075
+canoe,nz,canada,capacity|electricity|oil|combustion turbine,GW,2025,1.4386
+canoe,nz,canada,capacity|electricity|oil|combustion turbine,GW,2030,1.4294
+canoe,nz,canada,capacity|electricity|oil|combustion turbine,GW,2035,0.9094
+canoe,nz,canada,capacity|electricity|oil|combustion turbine,GW,2040,0.9094
+canoe,nz,canada,capacity|electricity|oil|combustion turbine,GW,2045,0.7937
+canoe,nz,canada,capacity|electricity|oil|combustion turbine,GW,2050,0.7367
+canoe,nz,canada,capacity|electricity|oil|steam turbine,GW,2025,0.49
+canoe,nz,canada,capacity|electricity|oil|steam turbine,GW,2030,0.49
+canoe,nz,canada,capacity|electricity|oil|steam turbine,GW,2035,0.49
+canoe,nz,canada,capacity|electricity|oil|steam turbine,GW,2040,0.49
+canoe,nz,canada,capacity|electricity|oil|steam turbine,GW,2045,0.49
+canoe,nz,canada,capacity|electricity|oil|steam turbine,GW,2050,0.49
+canoe,nz,canada,capacity|electricity|renewables|solar PV,GW,2025,2.493750643987121
+canoe,nz,canada,capacity|electricity|renewables|solar PV,GW,2030,16.861836679106492
+canoe,nz,canada,capacity|electricity|renewables|solar PV,GW,2035,51.087999759846575
+canoe,nz,canada,capacity|electricity|renewables|solar PV,GW,2040,64.20509105675704
+canoe,nz,canada,capacity|electricity|renewables|solar PV,GW,2045,73.46058718639618
+canoe,nz,canada,capacity|electricity|renewables|solar PV,GW,2050,87.6418857951808
+canoe,nz,canada,capacity|electricity|renewables|wind onshore,GW,2025,91.71395921587596
+canoe,nz,canada,capacity|electricity|renewables|wind onshore,GW,2030,109.43440353341279
+canoe,nz,canada,capacity|electricity|renewables|wind onshore,GW,2035,110.9179151730178
+canoe,nz,canada,capacity|electricity|renewables|wind onshore,GW,2040,109.32161908233049
+canoe,nz,canada,capacity|electricity|renewables|wind onshore,GW,2045,105.08766944215648
+canoe,nz,canada,capacity|electricity|renewables|wind onshore,GW,2050,105.40204562429182
+canoe,nz,canada,capacity|electricity|storage|battery storage,GW,2025,0.4992767195594347
+canoe,nz,canada,capacity|electricity|storage|battery storage,GW,2030,0.549045944186766
+canoe,nz,canada,capacity|electricity|storage|battery storage,GW,2035,0.5035150016931643
+canoe,nz,canada,capacity|electricity|storage|battery storage,GW,2040,0.4258552321758473
+canoe,nz,canada,capacity|electricity|storage|battery storage,GW,2045,0.8800594633959735
+canoe,nz,canada,capacity|electricity|storage|battery storage,GW,2050,3.1162584127684445
+canoe,nz,canada,capacity|electricity|storage|pumped hydro,GW,2025,0.17400000000000002
+canoe,nz,canada,capacity|electricity|storage|pumped hydro,GW,2030,0.17400000000000002
+canoe,nz,canada,capacity|electricity|storage|pumped hydro,GW,2035,0.17400000000000002
+canoe,nz,canada,capacity|electricity|storage|pumped hydro,GW,2040,0.17400000000000002
+canoe,nz,canada,capacity|electricity|storage|pumped hydro,GW,2045,0.17400000000000002
+canoe,nz,canada,capacity|electricity|storage|pumped hydro,GW,2050,0.17400000000000002
+canoe,nz,manitoba,capacity|electricity|hydro|reservoir,GW,2025,6.081
+canoe,nz,manitoba,capacity|electricity|hydro|reservoir,GW,2030,6.081
+canoe,nz,manitoba,capacity|electricity|hydro|reservoir,GW,2035,6.081
+canoe,nz,manitoba,capacity|electricity|hydro|reservoir,GW,2040,6.081
+canoe,nz,manitoba,capacity|electricity|hydro|reservoir,GW,2045,6.081
+canoe,nz,manitoba,capacity|electricity|hydro|reservoir,GW,2050,6.081
+canoe,nz,manitoba,capacity|electricity|hydro|run of river,GW,2025,0.023
+canoe,nz,manitoba,capacity|electricity|hydro|run of river,GW,2030,0.023
+canoe,nz,manitoba,capacity|electricity|hydro|run of river,GW,2035,0.023
+canoe,nz,manitoba,capacity|electricity|hydro|run of river,GW,2040,0.023
+canoe,nz,manitoba,capacity|electricity|hydro|run of river,GW,2045,0.023
+canoe,nz,manitoba,capacity|electricity|hydro|run of river,GW,2050,0.023
+canoe,nz,manitoba,capacity|electricity|natural gas|combustion turbine,GW,2025,0.9326450311901857
+canoe,nz,manitoba,capacity|electricity|natural gas|combustion turbine,GW,2030,1.122738035582536
+canoe,nz,manitoba,capacity|electricity|natural gas|combustion turbine,GW,2035,1.1692466557358634
+canoe,nz,manitoba,capacity|electricity|natural gas|combustion turbine,GW,2040,1.3283714630037298
+canoe,nz,manitoba,capacity|electricity|natural gas|combustion turbine,GW,2045,1.341285359196068
+canoe,nz,manitoba,capacity|electricity|natural gas|combustion turbine,GW,2050,1.3987405532137238
+canoe,nz,manitoba,capacity|electricity|renewables|wind onshore,GW,2025,1.5134065558150658
+canoe,nz,manitoba,capacity|electricity|renewables|wind onshore,GW,2030,1.6155129991494355
+canoe,nz,manitoba,capacity|electricity|renewables|wind onshore,GW,2035,1.6396975256877453
+canoe,nz,manitoba,capacity|electricity|renewables|wind onshore,GW,2040,2.089173403713534
+canoe,nz,manitoba,capacity|electricity|renewables|wind onshore,GW,2045,2.285529086177712
+canoe,nz,manitoba,capacity|electricity|renewables|wind onshore,GW,2050,2.7202606367338253
+canoe,nz,new brunswick,capacity|electricity|bioenergy|biomass,GW,2025,0.12081931024442245
+canoe,nz,new brunswick,capacity|electricity|bioenergy|biomass,GW,2030,0.12084093010305295
+canoe,nz,new brunswick,capacity|electricity|bioenergy|biomass,GW,2035,0.12086533259695709
+canoe,nz,new brunswick,capacity|electricity|bioenergy|biomass,GW,2040,0.1208936529658158
+canoe,nz,new brunswick,capacity|electricity|bioenergy|biomass,GW,2045,0.12092430989453669
+canoe,nz,new brunswick,capacity|electricity|bioenergy|biomass,GW,2050,0.12095712915451133
+canoe,nz,new brunswick,capacity|electricity|coal|coal,GW,2025,0.466
+canoe,nz,new brunswick,capacity|electricity|coal|coal,GW,2030,0.466
+canoe,nz,new brunswick,capacity|electricity|coal|coal,GW,2035,0.466
+canoe,nz,new brunswick,capacity|electricity|hydro|reservoir,GW,2025,0.898
+canoe,nz,new brunswick,capacity|electricity|hydro|reservoir,GW,2030,0.898
+canoe,nz,new brunswick,capacity|electricity|hydro|reservoir,GW,2035,0.898
+canoe,nz,new brunswick,capacity|electricity|hydro|reservoir,GW,2040,0.898
+canoe,nz,new brunswick,capacity|electricity|hydro|reservoir,GW,2045,0.898
+canoe,nz,new brunswick,capacity|electricity|hydro|reservoir,GW,2050,0.898
+canoe,nz,new brunswick,capacity|electricity|hydro|run of river,GW,2025,0.0451
+canoe,nz,new brunswick,capacity|electricity|hydro|run of river,GW,2030,0.0451
+canoe,nz,new brunswick,capacity|electricity|hydro|run of river,GW,2035,0.0451
+canoe,nz,new brunswick,capacity|electricity|hydro|run of river,GW,2040,0.0451
+canoe,nz,new brunswick,capacity|electricity|hydro|run of river,GW,2045,0.0451
+canoe,nz,new brunswick,capacity|electricity|hydro|run of river,GW,2050,0.0451
+canoe,nz,new brunswick,capacity|electricity|interconnection|interconnection,GW,2025,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection|interconnection,GW,2030,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection|interconnection,GW,2035,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection|interconnection,GW,2040,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection|interconnection,GW,2045,0.229
+canoe,nz,new brunswick,capacity|electricity|interconnection|interconnection,GW,2050,0.229
+canoe,nz,new brunswick,capacity|electricity|natural gas|cogeneration,GW,2025,0.098
+canoe,nz,new brunswick,capacity|electricity|natural gas|cogeneration,GW,2030,0.098
+canoe,nz,new brunswick,capacity|electricity|natural gas|cogeneration,GW,2035,0.098
+canoe,nz,new brunswick,capacity|electricity|natural gas|cogeneration,GW,2040,0.098
+canoe,nz,new brunswick,capacity|electricity|natural gas|cogeneration,GW,2045,0.098
+canoe,nz,new brunswick,capacity|electricity|natural gas|combined cycle,GW,2025,0.2900991233148655
+canoe,nz,new brunswick,capacity|electricity|natural gas|combined cycle,GW,2030,0.29023051796848337
+canoe,nz,new brunswick,capacity|electricity|natural gas|combined cycle,GW,2035,0.29043799816289484
+canoe,nz,new brunswick,capacity|electricity|natural gas|combined cycle,GW,2040,0.29103815253707993
+canoe,nz,new brunswick,capacity|electricity|natural gas|combustion turbine,GW,2025,0.028044497627934803
+canoe,nz,new brunswick,capacity|electricity|natural gas|combustion turbine,GW,2030,0.02810441251809195
+canoe,nz,new brunswick,capacity|electricity|natural gas|combustion turbine,GW,2040,0.08604750837134838
+canoe,nz,new brunswick,capacity|electricity|natural gas|combustion turbine,GW,2045,0.2425873955202985
+canoe,nz,new brunswick,capacity|electricity|natural gas|combustion turbine,GW,2050,0.25603639162842473
+canoe,nz,new brunswick,capacity|electricity|nuclear|candu,GW,2025,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear|candu,GW,2030,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear|candu,GW,2035,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear|candu,GW,2040,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear|candu,GW,2045,0.66
+canoe,nz,new brunswick,capacity|electricity|nuclear|candu,GW,2050,0.66
+canoe,nz,new brunswick,capacity|electricity|oil|combustion turbine,GW,2025,0.5
+canoe,nz,new brunswick,capacity|electricity|oil|combustion turbine,GW,2030,0.495
+canoe,nz,new brunswick,capacity|electricity|renewables|solar PV,GW,2035,0.018934484224492103
+canoe,nz,new brunswick,capacity|electricity|renewables|solar PV,GW,2040,0.20770986020026982
+canoe,nz,new brunswick,capacity|electricity|renewables|solar PV,GW,2045,0.6670036273623658
+canoe,nz,new brunswick,capacity|electricity|renewables|solar PV,GW,2050,1.0532711437496158
+canoe,nz,new brunswick,capacity|electricity|renewables|wind onshore,GW,2025,3.215127933268603
+canoe,nz,new brunswick,capacity|electricity|renewables|wind onshore,GW,2030,3.239952028897003
+canoe,nz,new brunswick,capacity|electricity|renewables|wind onshore,GW,2035,3.55185158033606
+canoe,nz,new brunswick,capacity|electricity|renewables|wind onshore,GW,2040,3.833402459814913
+canoe,nz,new brunswick,capacity|electricity|renewables|wind onshore,GW,2045,3.9064678673020565
+canoe,nz,new brunswick,capacity|electricity|renewables|wind onshore,GW,2050,3.9820249332692357
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy|biomass,GW,2025,0.015318881264991004
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy|biomass,GW,2030,0.015338022999743305
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy|biomass,GW,2035,0.01535893176055708
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy|biomass,GW,2040,0.015381752951694872
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy|biomass,GW,2045,0.015406598054049241
+canoe,nz,newfoundland and labrador,capacity|electricity|bioenergy|biomass,GW,2050,0.015433800756986568
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro|reservoir,GW,2025,7.55212
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro|reservoir,GW,2030,7.55212
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro|reservoir,GW,2035,7.55212
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro|reservoir,GW,2040,7.55212
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro|reservoir,GW,2045,7.55212
+canoe,nz,newfoundland and labrador,capacity|electricity|hydro|reservoir,GW,2050,7.55212
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|combustion turbine,GW,2025,0.3207
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|combustion turbine,GW,2030,0.3207
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|combustion turbine,GW,2035,0.29569999999999996
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|combustion turbine,GW,2040,0.29569999999999996
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|combustion turbine,GW,2045,0.2907
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|combustion turbine,GW,2050,0.2827
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|steam turbine,GW,2025,0.49
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|steam turbine,GW,2030,0.49
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|steam turbine,GW,2035,0.49
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|steam turbine,GW,2040,0.49
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|steam turbine,GW,2045,0.49
+canoe,nz,newfoundland and labrador,capacity|electricity|oil|steam turbine,GW,2050,0.49
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables|wind onshore,GW,2025,0.056457810219363816
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables|wind onshore,GW,2030,0.05897693000126851
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables|wind onshore,GW,2035,0.06182223805181996
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables|wind onshore,GW,2040,0.011086129080632785
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables|wind onshore,GW,2045,0.014822792672020468
+canoe,nz,newfoundland and labrador,capacity|electricity|renewables|wind onshore,GW,2050,0.019124684427452028
+canoe,nz,nova scotia,capacity|electricity|bioenergy|biomass,GW,2025,0.09501765391864367
+canoe,nz,nova scotia,capacity|electricity|bioenergy|biomass,GW,2030,0.09503680527230667
+canoe,nz,nova scotia,capacity|electricity|bioenergy|biomass,GW,2035,0.09505772425561991
+canoe,nz,nova scotia,capacity|electricity|bioenergy|biomass,GW,2040,0.06388050550051645
+canoe,nz,nova scotia,capacity|electricity|bioenergy|biomass,GW,2045,0.06390530140417167
+canoe,nz,nova scotia,capacity|electricity|bioenergy|biomass,GW,2050,0.06393237973691275
+canoe,nz,nova scotia,capacity|electricity|coal|coal,GW,2025,0.9279999999999999
+canoe,nz,nova scotia,capacity|electricity|coal|coal,GW,2030,0.625
+canoe,nz,nova scotia,capacity|electricity|coal|coal,GW,2035,0.625
+canoe,nz,nova scotia,capacity|electricity|coal|coal,GW,2040,0.625
+canoe,nz,nova scotia,capacity|electricity|coal|coal,GW,2045,0.625
+canoe,nz,nova scotia,capacity|electricity|coal|coal,GW,2050,0.625
+canoe,nz,nova scotia,capacity|electricity|hydro|reservoir,GW,2025,0.15595
+canoe,nz,nova scotia,capacity|electricity|hydro|reservoir,GW,2030,0.15595
+canoe,nz,nova scotia,capacity|electricity|hydro|reservoir,GW,2035,0.15595
+canoe,nz,nova scotia,capacity|electricity|hydro|reservoir,GW,2040,0.15595
+canoe,nz,nova scotia,capacity|electricity|hydro|reservoir,GW,2045,0.15595
+canoe,nz,nova scotia,capacity|electricity|hydro|reservoir,GW,2050,0.15595
+canoe,nz,nova scotia,capacity|electricity|hydro|run of river,GW,2025,0.019
+canoe,nz,nova scotia,capacity|electricity|hydro|run of river,GW,2030,0.019
+canoe,nz,nova scotia,capacity|electricity|hydro|run of river,GW,2035,0.019
+canoe,nz,nova scotia,capacity|electricity|hydro|run of river,GW,2040,0.019
+canoe,nz,nova scotia,capacity|electricity|hydro|run of river,GW,2045,0.019
+canoe,nz,nova scotia,capacity|electricity|hydro|run of river,GW,2050,0.019
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle,GW,2025,0.16108302069386166
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle,GW,2030,0.16431297017033958
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle,GW,2035,0.16512168702630903
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle,GW,2040,0.16643044762775586
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle,GW,2045,0.16882613532060772
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle,GW,2050,0.18964557244060506
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle ccs,GW,2025,0.18035741537350536
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle ccs,GW,2030,0.2118570222923291
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle ccs,GW,2035,0.2972495190742993
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle ccs,GW,2040,0.5762368964532113
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle ccs,GW,2045,0.6819734749859033
+canoe,nz,nova scotia,capacity|electricity|natural gas|combined cycle ccs,GW,2050,0.8146509325908514
+canoe,nz,nova scotia,capacity|electricity|natural gas|combustion turbine,GW,2025,0.09409593499582679
+canoe,nz,nova scotia,capacity|electricity|natural gas|combustion turbine,GW,2030,0.09419276494868455
+canoe,nz,nova scotia,capacity|electricity|natural gas|combustion turbine,GW,2035,0.09427717395036404
+canoe,nz,nova scotia,capacity|electricity|natural gas|combustion turbine,GW,2040,0.09437739725345716
+canoe,nz,nova scotia,capacity|electricity|natural gas|combustion turbine,GW,2045,0.09449160427847778
+canoe,nz,nova scotia,capacity|electricity|oil|combustion turbine,GW,2025,0.5539999999999999
+canoe,nz,nova scotia,capacity|electricity|oil|combustion turbine,GW,2030,0.5539999999999999
+canoe,nz,nova scotia,capacity|electricity|oil|combustion turbine,GW,2035,0.5539999999999999
+canoe,nz,nova scotia,capacity|electricity|oil|combustion turbine,GW,2040,0.554
+canoe,nz,nova scotia,capacity|electricity|oil|combustion turbine,GW,2045,0.45399999999999996
+canoe,nz,nova scotia,capacity|electricity|oil|combustion turbine,GW,2050,0.45399999999999996
+canoe,nz,nova scotia,capacity|electricity|renewables|solar PV,GW,2030,0.1371481174187836
+canoe,nz,nova scotia,capacity|electricity|renewables|solar PV,GW,2035,0.6668897252904789
+canoe,nz,nova scotia,capacity|electricity|renewables|solar PV,GW,2040,0.958232248231899
+canoe,nz,nova scotia,capacity|electricity|renewables|solar PV,GW,2045,1.0952713939097949
+canoe,nz,nova scotia,capacity|electricity|renewables|solar PV,GW,2050,1.3452696826798816
+canoe,nz,nova scotia,capacity|electricity|renewables|wind onshore,GW,2025,2.4717938457143784
+canoe,nz,nova scotia,capacity|electricity|renewables|wind onshore,GW,2030,3.3850064349922864
+canoe,nz,nova scotia,capacity|electricity|renewables|wind onshore,GW,2035,3.5473153556345376
+canoe,nz,nova scotia,capacity|electricity|renewables|wind onshore,GW,2040,3.671814976770803
+canoe,nz,nova scotia,capacity|electricity|renewables|wind onshore,GW,2045,3.5488498209320083
+canoe,nz,nova scotia,capacity|electricity|renewables|wind onshore,GW,2050,3.5728700169975434
+canoe,nz,nova scotia,capacity|electricity|storage|battery storage,GW,2045,0.01177680130940222
+canoe,nz,nova scotia,capacity|electricity|storage|battery storage,GW,2050,0.1049519930393174
+canoe,nz,ontario,capacity|electricity|bioenergy|biogas,GW,2025,0.012499999999999999
+canoe,nz,ontario,capacity|electricity|bioenergy|biogas,GW,2030,0.012499999999999999
+canoe,nz,ontario,capacity|electricity|bioenergy|biogas,GW,2035,0.012499999999999999
+canoe,nz,ontario,capacity|electricity|bioenergy|biogas,GW,2040,0.012499999999999999
+canoe,nz,ontario,capacity|electricity|bioenergy|biomass,GW,2025,0.3110346550000041
+canoe,nz,ontario,capacity|electricity|bioenergy|biomass,GW,2030,0.311061667935727
+canoe,nz,ontario,capacity|electricity|bioenergy|biomass,GW,2035,0.31109095659970987
+canoe,nz,ontario,capacity|electricity|bioenergy|biomass,GW,2040,0.3111226497323674
+canoe,nz,ontario,capacity|electricity|bioenergy|biomass,GW,2045,0.31115634254652913
+canoe,nz,ontario,capacity|electricity|bioenergy|biomass,GW,2050,0.31119368816591214
+canoe,nz,ontario,capacity|electricity|hydro|reservoir,GW,2025,4.39396
+canoe,nz,ontario,capacity|electricity|hydro|reservoir,GW,2030,4.39396
+canoe,nz,ontario,capacity|electricity|hydro|reservoir,GW,2035,4.39396
+canoe,nz,ontario,capacity|electricity|hydro|reservoir,GW,2040,4.39396
+canoe,nz,ontario,capacity|electricity|hydro|reservoir,GW,2045,4.39396
+canoe,nz,ontario,capacity|electricity|hydro|reservoir,GW,2050,4.39396
+canoe,nz,ontario,capacity|electricity|hydro|run of river,GW,2025,3.42117
+canoe,nz,ontario,capacity|electricity|hydro|run of river,GW,2030,3.42117
+canoe,nz,ontario,capacity|electricity|hydro|run of river,GW,2035,3.42117
+canoe,nz,ontario,capacity|electricity|hydro|run of river,GW,2040,3.42117
+canoe,nz,ontario,capacity|electricity|hydro|run of river,GW,2045,3.42117
+canoe,nz,ontario,capacity|electricity|hydro|run of river,GW,2050,3.42117
+canoe,nz,ontario,capacity|electricity|interconnection|interconnection,GW,2025,0.52
+canoe,nz,ontario,capacity|electricity|interconnection|interconnection,GW,2030,0.52
+canoe,nz,ontario,capacity|electricity|interconnection|interconnection,GW,2035,0.52
+canoe,nz,ontario,capacity|electricity|interconnection|interconnection,GW,2040,0.52
+canoe,nz,ontario,capacity|electricity|interconnection|interconnection,GW,2045,0.52
+canoe,nz,ontario,capacity|electricity|interconnection|interconnection,GW,2050,0.52
+canoe,nz,ontario,capacity|electricity|natural gas|cogeneration,GW,2025,1.46303
+canoe,nz,ontario,capacity|electricity|natural gas|cogeneration,GW,2030,1.46303
+canoe,nz,ontario,capacity|electricity|natural gas|cogeneration,GW,2035,1.46303
+canoe,nz,ontario,capacity|electricity|natural gas|cogeneration,GW,2040,1.32303
+canoe,nz,ontario,capacity|electricity|natural gas|cogeneration,GW,2045,1.26703
+canoe,nz,ontario,capacity|electricity|natural gas|cogeneration,GW,2050,1.17703
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle,GW,2025,4.051631903240461
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle,GW,2030,6.35074491527987
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle,GW,2035,8.63895396455018
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle,GW,2040,8.684553049416616
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle,GW,2045,8.685995240581526
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle,GW,2050,8.687207525565217
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle ccs,GW,2035,3.1172694203281712
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle ccs,GW,2040,3.23192021334184
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle ccs,GW,2045,3.2422424951168782
+canoe,nz,ontario,capacity|electricity|natural gas|combined cycle ccs,GW,2050,3.3108660487549852
+canoe,nz,ontario,capacity|electricity|natural gas|combustion turbine,GW,2025,10.825578527213409
+canoe,nz,ontario,capacity|electricity|natural gas|combustion turbine,GW,2030,15.199663121862544
+canoe,nz,ontario,capacity|electricity|natural gas|combustion turbine,GW,2035,17.748124502290402
+canoe,nz,ontario,capacity|electricity|natural gas|combustion turbine,GW,2040,19.32426635172216
+canoe,nz,ontario,capacity|electricity|natural gas|combustion turbine,GW,2045,19.32497356841563
+canoe,nz,ontario,capacity|electricity|natural gas|combustion turbine,GW,2050,19.466334579132948
+canoe,nz,ontario,capacity|electricity|nuclear|candu,GW,2025,11.413
+canoe,nz,ontario,capacity|electricity|nuclear|candu,GW,2030,8.311
+canoe,nz,ontario,capacity|electricity|nuclear|candu,GW,2035,6.665
+canoe,nz,ontario,capacity|electricity|nuclear|candu,GW,2040,5.043
+canoe,nz,ontario,capacity|electricity|nuclear|candu,GW,2045,1.762
+canoe,nz,ontario,capacity|electricity|nuclear|candu,GW,2050,1.762
+canoe,nz,ontario,capacity|electricity|nuclear|smr,GW,2040,7.265261258298055
+canoe,nz,ontario,capacity|electricity|nuclear|smr,GW,2045,14.159309162018626
+canoe,nz,ontario,capacity|electricity|nuclear|smr,GW,2050,17.66078175013183
+canoe,nz,ontario,capacity|electricity|renewables|solar PV,GW,2025,0.6193948220641368
+canoe,nz,ontario,capacity|electricity|renewables|solar PV,GW,2030,11.607061054971414
+canoe,nz,ontario,capacity|electricity|renewables|solar PV,GW,2035,34.78611243106825
+canoe,nz,ontario,capacity|electricity|renewables|solar PV,GW,2040,34.68291658434953
+canoe,nz,ontario,capacity|electricity|renewables|solar PV,GW,2045,34.269286365054775
+canoe,nz,ontario,capacity|electricity|renewables|solar PV,GW,2050,34.17167864398402
+canoe,nz,ontario,capacity|electricity|renewables|wind onshore,GW,2025,15.86728560921887
+canoe,nz,ontario,capacity|electricity|renewables|wind onshore,GW,2030,23.45364626639007
+canoe,nz,ontario,capacity|electricity|renewables|wind onshore,GW,2035,23.063041166081796
+canoe,nz,ontario,capacity|electricity|renewables|wind onshore,GW,2040,21.614751486822
+canoe,nz,ontario,capacity|electricity|renewables|wind onshore,GW,2045,18.985712604727674
+canoe,nz,ontario,capacity|electricity|renewables|wind onshore,GW,2050,18.365751400794508
+canoe,nz,ontario,capacity|electricity|storage|battery storage,GW,2025,0.033227099497516045
+canoe,nz,ontario,capacity|electricity|storage|battery storage,GW,2030,0.02254012237199188
+canoe,nz,ontario,capacity|electricity|storage|battery storage,GW,2035,0.027285352723865532
+canoe,nz,ontario,capacity|electricity|storage|battery storage,GW,2040,0.12810885151479573
+canoe,nz,ontario,capacity|electricity|storage|battery storage,GW,2045,0.5616355561999263
+canoe,nz,ontario,capacity|electricity|storage|battery storage,GW,2050,1.7018411648215253
+canoe,nz,ontario,capacity|electricity|storage|pumped hydro,GW,2025,0.17400000000000002
+canoe,nz,ontario,capacity|electricity|storage|pumped hydro,GW,2030,0.17400000000000002
+canoe,nz,ontario,capacity|electricity|storage|pumped hydro,GW,2035,0.17400000000000002
+canoe,nz,ontario,capacity|electricity|storage|pumped hydro,GW,2040,0.17400000000000002
+canoe,nz,ontario,capacity|electricity|storage|pumped hydro,GW,2045,0.17400000000000002
+canoe,nz,ontario,capacity|electricity|storage|pumped hydro,GW,2050,0.17400000000000002
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle,GW,2025,0.052096296098479954
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle,GW,2030,0.05374768885024893
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle,GW,2035,0.05512607321191624
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle,GW,2040,0.05601204104011212
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle,GW,2045,0.05644442399316483
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle,GW,2050,0.05695566136919904
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle ccs,GW,2025,0.20129836859590242
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle ccs,GW,2030,0.3085194190094086
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle ccs,GW,2035,0.5095135425519433
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle ccs,GW,2040,0.6581802857399689
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle ccs,GW,2045,0.6590163187499245
+canoe,nz,prince edward island,capacity|electricity|natural gas|combined cycle ccs,GW,2050,0.6595148559367414
+canoe,nz,prince edward island,capacity|electricity|natural gas|combustion turbine,GW,2025,0.22781447179900166
+canoe,nz,prince edward island,capacity|electricity|natural gas|combustion turbine,GW,2030,0.23173440516311752
+canoe,nz,prince edward island,capacity|electricity|natural gas|combustion turbine,GW,2035,0.23329399170787454
+canoe,nz,prince edward island,capacity|electricity|natural gas|combustion turbine,GW,2040,0.2385151452136254
+canoe,nz,prince edward island,capacity|electricity|natural gas|combustion turbine,GW,2045,0.23877744295224873
+canoe,nz,prince edward island,capacity|electricity|natural gas|combustion turbine,GW,2050,0.2391240070441232
+canoe,nz,prince edward island,capacity|electricity|oil|combustion turbine,GW,2025,0.0639
+canoe,nz,prince edward island,capacity|electricity|oil|combustion turbine,GW,2030,0.0597
+canoe,nz,prince edward island,capacity|electricity|oil|combustion turbine,GW,2035,0.0597
+canoe,nz,prince edward island,capacity|electricity|oil|combustion turbine,GW,2040,0.0597
+canoe,nz,prince edward island,capacity|electricity|oil|combustion turbine,GW,2045,0.049
+canoe,nz,prince edward island,capacity|electricity|renewables|solar PV,GW,2025,0.03394967848191985
+canoe,nz,prince edward island,capacity|electricity|renewables|solar PV,GW,2030,0.03971987914840784
+canoe,nz,prince edward island,capacity|electricity|renewables|solar PV,GW,2035,0.5238345525683384
+canoe,nz,prince edward island,capacity|electricity|renewables|solar PV,GW,2040,0.7562716092273454
+canoe,nz,prince edward island,capacity|electricity|renewables|solar PV,GW,2045,0.9521367088773088
+canoe,nz,prince edward island,capacity|electricity|renewables|solar PV,GW,2050,1.019529018922608
+canoe,nz,prince edward island,capacity|electricity|renewables|wind onshore,GW,2025,1.1785799582822496
+canoe,nz,prince edward island,capacity|electricity|renewables|wind onshore,GW,2030,1.2965532456786375
+canoe,nz,prince edward island,capacity|electricity|renewables|wind onshore,GW,2035,1.5346523846749378
+canoe,nz,prince edward island,capacity|electricity|renewables|wind onshore,GW,2040,1.8319394068524455
+canoe,nz,prince edward island,capacity|electricity|renewables|wind onshore,GW,2045,1.8515507448989204
+canoe,nz,prince edward island,capacity|electricity|renewables|wind onshore,GW,2050,1.9346058813754918
+canoe,nz,prince edward island,capacity|electricity|storage|battery storage,GW,2025,0.014496756939151176
+canoe,nz,prince edward island,capacity|electricity|storage|battery storage,GW,2030,0.0502142262866809
+canoe,nz,prince edward island,capacity|electricity|storage|battery storage,GW,2035,0.10861241067768193
+canoe,nz,prince edward island,capacity|electricity|storage|battery storage,GW,2040,0.2507545767284665
+canoe,nz,prince edward island,capacity|electricity|storage|battery storage,GW,2045,0.26489835532298067
+canoe,nz,prince edward island,capacity|electricity|storage|battery storage,GW,2050,0.3595225515838751
+canoe,nz,quebec,capacity|electricity|bioenergy|biogas,GW,2025,0.0244
+canoe,nz,quebec,capacity|electricity|bioenergy|biogas,GW,2030,0.0244
+canoe,nz,quebec,capacity|electricity|bioenergy|biogas,GW,2035,0.024399999999999998
+canoe,nz,quebec,capacity|electricity|bioenergy|biogas,GW,2040,0.0244
+canoe,nz,quebec,capacity|electricity|bioenergy|biogas,GW,2045,0.014499999999999999
+canoe,nz,quebec,capacity|electricity|bioenergy|biomass,GW,2025,0.4182751929223434
+canoe,nz,quebec,capacity|electricity|bioenergy|biomass,GW,2030,0.4183025173876002
+canoe,nz,quebec,capacity|electricity|bioenergy|biomass,GW,2035,0.4183321608697718
+canoe,nz,quebec,capacity|electricity|bioenergy|biomass,GW,2040,0.41836421206695457
+canoe,nz,quebec,capacity|electricity|bioenergy|biomass,GW,2045,0.329395054452977
+canoe,nz,quebec,capacity|electricity|bioenergy|biomass,GW,2050,0.29943343486082924
+canoe,nz,quebec,capacity|electricity|hydro|reservoir,GW,2025,35.6835
+canoe,nz,quebec,capacity|electricity|hydro|reservoir,GW,2030,35.6835
+canoe,nz,quebec,capacity|electricity|hydro|reservoir,GW,2035,35.6835
+canoe,nz,quebec,capacity|electricity|hydro|reservoir,GW,2040,35.6835
+canoe,nz,quebec,capacity|electricity|hydro|reservoir,GW,2045,35.6835
+canoe,nz,quebec,capacity|electricity|hydro|reservoir,GW,2050,35.6835
+canoe,nz,quebec,capacity|electricity|hydro|run of river,GW,2025,4.77322
+canoe,nz,quebec,capacity|electricity|hydro|run of river,GW,2030,4.77322
+canoe,nz,quebec,capacity|electricity|hydro|run of river,GW,2035,4.77322
+canoe,nz,quebec,capacity|electricity|hydro|run of river,GW,2040,4.77322
+canoe,nz,quebec,capacity|electricity|hydro|run of river,GW,2045,4.77322
+canoe,nz,quebec,capacity|electricity|hydro|run of river,GW,2050,4.77322
+canoe,nz,quebec,capacity|electricity|interconnection|interconnection,GW,2025,0.366
+canoe,nz,quebec,capacity|electricity|interconnection|interconnection,GW,2030,0.366
+canoe,nz,quebec,capacity|electricity|interconnection|interconnection,GW,2035,0.366
+canoe,nz,quebec,capacity|electricity|interconnection|interconnection,GW,2040,0.366
+canoe,nz,quebec,capacity|electricity|interconnection|interconnection,GW,2045,0.366
+canoe,nz,quebec,capacity|electricity|interconnection|interconnection,GW,2050,0.366
+canoe,nz,quebec,capacity|electricity|natural gas|cogeneration,GW,2025,0.5591
+canoe,nz,quebec,capacity|electricity|natural gas|cogeneration,GW,2030,0.5591
+canoe,nz,quebec,capacity|electricity|natural gas|cogeneration,GW,2035,0.5591
+canoe,nz,quebec,capacity|electricity|natural gas|cogeneration,GW,2040,0.5545
+canoe,nz,quebec,capacity|electricity|natural gas|cogeneration,GW,2045,0.5545
+canoe,nz,quebec,capacity|electricity|natural gas|combined cycle,GW,2025,0.4114901664397872
+canoe,nz,quebec,capacity|electricity|natural gas|combined cycle,GW,2030,0.4120232888831333
+canoe,nz,quebec,capacity|electricity|natural gas|combined cycle,GW,2035,0.41272278075954366
+canoe,nz,quebec,capacity|electricity|natural gas|combustion turbine,GW,2025,2.889252263511988
+canoe,nz,quebec,capacity|electricity|natural gas|combustion turbine,GW,2030,3.0279008836832615
+canoe,nz,quebec,capacity|electricity|natural gas|combustion turbine,GW,2035,3.040283566308679
+canoe,nz,quebec,capacity|electricity|natural gas|combustion turbine,GW,2040,3.170431947315424
+canoe,nz,quebec,capacity|electricity|natural gas|combustion turbine,GW,2045,3.1705212440094703
+canoe,nz,quebec,capacity|electricity|natural gas|combustion turbine,GW,2050,3.172742531289483
+canoe,nz,quebec,capacity|electricity|renewables|solar PV,GW,2045,0.0106953151923537
+canoe,nz,quebec,capacity|electricity|renewables|solar PV,GW,2050,0.016547074416599864
+canoe,nz,quebec,capacity|electricity|renewables|wind onshore,GW,2025,19.475498555807544
+canoe,nz,quebec,capacity|electricity|renewables|wind onshore,GW,2030,22.227519884162085
+canoe,nz,quebec,capacity|electricity|renewables|wind onshore,GW,2035,23.80595912761187
+canoe,nz,quebec,capacity|electricity|renewables|wind onshore,GW,2040,23.620375645165698
+canoe,nz,quebec,capacity|electricity|renewables|wind onshore,GW,2045,22.451272851095695
+canoe,nz,quebec,capacity|electricity|renewables|wind onshore,GW,2050,23.677558047103812
+canoe,nz,saskatchewan,capacity|electricity|bioenergy|biogas,GW,2025,0.02
+canoe,nz,saskatchewan,capacity|electricity|bioenergy|biogas,GW,2030,0.02
+canoe,nz,saskatchewan,capacity|electricity|bioenergy|biogas,GW,2035,0.02
+canoe,nz,saskatchewan,capacity|electricity|bioenergy|biogas,GW,2040,0.02
+canoe,nz,saskatchewan,capacity|electricity|bioenergy|biogas,GW,2045,0.015
+canoe,nz,saskatchewan,capacity|electricity|coal|ccs,GW,2025,0.139
+canoe,nz,saskatchewan,capacity|electricity|coal|ccs,GW,2030,0.139
+canoe,nz,saskatchewan,capacity|electricity|coal|ccs,GW,2035,0.139
+canoe,nz,saskatchewan,capacity|electricity|coal|ccs,GW,2040,0.139
+canoe,nz,saskatchewan,capacity|electricity|coal|ccs,GW,2045,0.139
+canoe,nz,saskatchewan,capacity|electricity|coal|ccs,GW,2050,0.139
+canoe,nz,saskatchewan,capacity|electricity|coal|coal,GW,2025,0.56
+canoe,nz,saskatchewan,capacity|electricity|coal|coal,GW,2030,0.56
+canoe,nz,saskatchewan,capacity|electricity|coal|coal,GW,2035,0.28400000000000003
+canoe,nz,saskatchewan,capacity|electricity|coal|coal,GW,2040,0.28400000000000003
+canoe,nz,saskatchewan,capacity|electricity|coal|coal,GW,2045,0.28400000000000003
+canoe,nz,saskatchewan,capacity|electricity|hydro|reservoir,GW,2025,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro|reservoir,GW,2030,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro|reservoir,GW,2035,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro|reservoir,GW,2040,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro|reservoir,GW,2045,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|hydro|reservoir,GW,2050,0.7290000000000001
+canoe,nz,saskatchewan,capacity|electricity|interconnection|interconnection,GW,2025,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection|interconnection,GW,2030,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection|interconnection,GW,2035,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection|interconnection,GW,2040,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection|interconnection,GW,2045,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|interconnection|interconnection,GW,2050,0.23900000000000002
+canoe,nz,saskatchewan,capacity|electricity|natural gas|cogeneration,GW,2025,0.477
+canoe,nz,saskatchewan,capacity|electricity|natural gas|cogeneration,GW,2030,0.477
+canoe,nz,saskatchewan,capacity|electricity|natural gas|cogeneration,GW,2035,0.477
+canoe,nz,saskatchewan,capacity|electricity|natural gas|cogeneration,GW,2040,0.477
+canoe,nz,saskatchewan,capacity|electricity|natural gas|cogeneration,GW,2045,0.249
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle,GW,2025,0.9663980885018592
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle,GW,2030,0.9896051947158055
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle,GW,2035,1.2184875468315244
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle,GW,2040,1.2212479820356623
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle,GW,2045,1.0545677388077757
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle,GW,2050,1.0552185838981925
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle ccs,GW,2025,0.08399428911561636
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle ccs,GW,2030,0.08904059752265156
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle ccs,GW,2035,0.2643527981952497
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle ccs,GW,2040,1.15870375900903
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle ccs,GW,2045,1.8840056926254154
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combined cycle ccs,GW,2050,2.4001183921375855
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combustion turbine,GW,2025,0.6945233181163164
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combustion turbine,GW,2030,1.1622578312467295
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combustion turbine,GW,2035,1.5496138566488602
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combustion turbine,GW,2040,1.5543136633743515
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combustion turbine,GW,2045,1.5558753345124428
+canoe,nz,saskatchewan,capacity|electricity|natural gas|combustion turbine,GW,2050,1.5564931264294393
+canoe,nz,saskatchewan,capacity|electricity|renewables|solar PV,GW,2025,0.12636060731151244
+canoe,nz,saskatchewan,capacity|electricity|renewables|solar PV,GW,2030,0.47553622877705987
+canoe,nz,saskatchewan,capacity|electricity|renewables|solar PV,GW,2035,2.319583427413866
+canoe,nz,saskatchewan,capacity|electricity|renewables|solar PV,GW,2040,3.5361886183687607
+canoe,nz,saskatchewan,capacity|electricity|renewables|solar PV,GW,2045,4.7667365871154805
+canoe,nz,saskatchewan,capacity|electricity|renewables|solar PV,GW,2050,6.40563143425364
+canoe,nz,saskatchewan,capacity|electricity|renewables|wind onshore,GW,2025,7.9518764284284025
+canoe,nz,saskatchewan,capacity|electricity|renewables|wind onshore,GW,2030,8.93411574736366
+canoe,nz,saskatchewan,capacity|electricity|renewables|wind onshore,GW,2035,8.804902044038547
+canoe,nz,saskatchewan,capacity|electricity|renewables|wind onshore,GW,2040,8.809281604910609
+canoe,nz,saskatchewan,capacity|electricity|renewables|wind onshore,GW,2045,8.835100342599441
+canoe,nz,saskatchewan,capacity|electricity|renewables|wind onshore,GW,2050,9.362253732219598
+canoe,nz,saskatchewan,capacity|electricity|storage|battery storage,GW,2025,0.07854262237070943
+canoe,nz,saskatchewan,capacity|electricity|storage|battery storage,GW,2030,0.09842492085560739
+canoe,nz,saskatchewan,capacity|electricity|storage|battery storage,GW,2035,0.09698385915619848
+canoe,nz,saskatchewan,capacity|electricity|storage|battery storage,GW,2040,0.025864911214349383
+canoe,nz,saskatchewan,capacity|electricity|storage|battery storage,GW,2045,0.022511934554869797
+canoe,nz,saskatchewan,capacity|electricity|storage|battery storage,GW,2050,0.3585839043173672

@@ -1,0 +1,770 @@
+model,scenario,region,variable,unit,time,value
+canoe,nz,alberta,secondary energy|electricity,PJ,2025,417.5088869939587
+canoe,nz,alberta,secondary energy|electricity,PJ,2030,473.34071938396903
+canoe,nz,alberta,secondary energy|electricity,PJ,2035,510.68695315720043
+canoe,nz,alberta,secondary energy|electricity,PJ,2040,554.7047272907291
+canoe,nz,alberta,secondary energy|electricity,PJ,2045,581.0124116834584
+canoe,nz,alberta,secondary energy|electricity,PJ,2050,633.5454545541749
+canoe,nz,british columbia,secondary energy|electricity,PJ,2025,337.6152496372442
+canoe,nz,british columbia,secondary energy|electricity,PJ,2030,370.42348687679316
+canoe,nz,british columbia,secondary energy|electricity,PJ,2035,402.44874602015994
+canoe,nz,british columbia,secondary energy|electricity,PJ,2040,446.7068561750228
+canoe,nz,british columbia,secondary energy|electricity,PJ,2045,474.98658032921384
+canoe,nz,british columbia,secondary energy|electricity,PJ,2050,523.2943218088724
+canoe,nz,canada,secondary energy|electricity,PJ,2025,2907.136418959125
+canoe,nz,canada,secondary energy|electricity,PJ,2030,3192.415107932966
+canoe,nz,canada,secondary energy|electricity,PJ,2035,3467.735965428045
+canoe,nz,canada,secondary energy|electricity,PJ,2040,3775.2125596006454
+canoe,nz,canada,secondary energy|electricity,PJ,2045,3937.2483089051566
+canoe,nz,canada,secondary energy|electricity,PJ,2050,4201.124893682044
+canoe,nz,manitoba,secondary energy|electricity,PJ,2025,124.64813088393059
+canoe,nz,manitoba,secondary energy|electricity,PJ,2030,126.52294436637277
+canoe,nz,manitoba,secondary energy|electricity,PJ,2035,124.60157672094479
+canoe,nz,manitoba,secondary energy|electricity,PJ,2040,137.29130360846136
+canoe,nz,manitoba,secondary energy|electricity,PJ,2045,140.94964778980824
+canoe,nz,manitoba,secondary energy|electricity,PJ,2050,148.88533862285752
+canoe,nz,new brunswick,secondary energy|electricity,PJ,2025,77.14367855682315
+canoe,nz,new brunswick,secondary energy|electricity,PJ,2030,77.47294885819474
+canoe,nz,new brunswick,secondary energy|electricity,PJ,2035,81.40463322561672
+canoe,nz,new brunswick,secondary energy|electricity,PJ,2040,85.96510683184647
+canoe,nz,new brunswick,secondary energy|electricity,PJ,2045,87.99953421225146
+canoe,nz,new brunswick,secondary energy|electricity,PJ,2050,90.33454490789134
+canoe,nz,newfoundland and labrador,secondary energy|electricity,PJ,2025,110.90175223736784
+canoe,nz,newfoundland and labrador,secondary energy|electricity,PJ,2030,121.91754846022845
+canoe,nz,newfoundland and labrador,secondary energy|electricity,PJ,2035,85.79311553525547
+canoe,nz,newfoundland and labrador,secondary energy|electricity,PJ,2040,92.51534202649896
+canoe,nz,newfoundland and labrador,secondary energy|electricity,PJ,2045,91.87248921414933
+canoe,nz,newfoundland and labrador,secondary energy|electricity,PJ,2050,91.44919343494198
+canoe,nz,nova scotia,secondary energy|electricity,PJ,2025,39.18102710803825
+canoe,nz,nova scotia,secondary energy|electricity,PJ,2030,52.89130206810833
+canoe,nz,nova scotia,secondary energy|electricity,PJ,2035,59.73391615156275
+canoe,nz,nova scotia,secondary energy|electricity,PJ,2040,66.98870793159772
+canoe,nz,nova scotia,secondary energy|electricity,PJ,2045,68.25484845849684
+canoe,nz,nova scotia,secondary energy|electricity,PJ,2050,71.36239219197853
+canoe,nz,ontario,secondary energy|electricity,PJ,2025,678.0931593782003
+canoe,nz,ontario,secondary energy|electricity,PJ,2030,782.5416388442221
+canoe,nz,ontario,secondary energy|electricity,PJ,2035,958.500766267228
+canoe,nz,ontario,secondary energy|electricity,PJ,2040,1117.307478856141
+canoe,nz,ontario,secondary energy|electricity,PJ,2045,1207.9887339051459
+canoe,nz,ontario,secondary energy|electricity,PJ,2050,1313.269866670239
+canoe,nz,prince edward island,secondary energy|electricity,PJ,2025,22.806186349413597
+canoe,nz,prince edward island,secondary energy|electricity,PJ,2030,26.42425103042389
+canoe,nz,prince edward island,secondary energy|electricity,PJ,2035,36.30480004671934
+canoe,nz,prince edward island,secondary energy|electricity,PJ,2040,46.2951771555285
+canoe,nz,prince edward island,secondary energy|electricity,PJ,2045,47.36440332983171
+canoe,nz,prince edward island,secondary energy|electricity,PJ,2050,49.535962012583646
+canoe,nz,quebec,secondary energy|electricity,PJ,2025,981.151082589291
+canoe,nz,quebec,secondary energy|electricity,PJ,2030,1030.459432109092
+canoe,nz,quebec,secondary energy|electricity,PJ,2035,1061.250268891355
+canoe,nz,quebec,secondary energy|electricity,PJ,2040,1065.1895479062694
+canoe,nz,quebec,secondary energy|electricity,PJ,2045,1064.5736405005487
+canoe,nz,quebec,secondary energy|electricity,PJ,2050,1087.8401473695924
+canoe,nz,saskatchewan,secondary energy|electricity,PJ,2025,118.08726522485739
+canoe,nz,saskatchewan,secondary energy|electricity,PJ,2030,130.4208359355613
+canoe,nz,saskatchewan,secondary energy|electricity,PJ,2035,147.0111894120022
+canoe,nz,saskatchewan,secondary energy|electricity,PJ,2040,162.24831181855006
+canoe,nz,saskatchewan,secondary energy|electricity,PJ,2045,172.2460194822521
+canoe,nz,saskatchewan,secondary energy|electricity,PJ,2050,191.60767210891225
+canoe,nz,alberta,secondary energy|electricity|hydro,PJ,2025,7.334097848023168
+canoe,nz,alberta,secondary energy|electricity|hydro,PJ,2030,7.3340163730538235
+canoe,nz,alberta,secondary energy|electricity|hydro,PJ,2035,7.333776556846554
+canoe,nz,alberta,secondary energy|electricity|hydro,PJ,2040,7.333601715765708
+canoe,nz,alberta,secondary energy|electricity|hydro,PJ,2045,7.333380464145883
+canoe,nz,alberta,secondary energy|electricity|hydro,PJ,2050,7.333208664534502
+canoe,nz,alberta,secondary energy|electricity|natural gas,PJ,2025,46.74198660008948
+canoe,nz,alberta,secondary energy|electricity|natural gas,PJ,2030,49.28945524061789
+canoe,nz,alberta,secondary energy|electricity|natural gas,PJ,2035,50.80416334319749
+canoe,nz,alberta,secondary energy|electricity|natural gas,PJ,2040,56.51436298638503
+canoe,nz,alberta,secondary energy|electricity|natural gas,PJ,2045,50.29827999541643
+canoe,nz,alberta,secondary energy|electricity|natural gas,PJ,2050,53.44389225549111
+canoe,nz,alberta,secondary energy|electricity|renewables,PJ,2025,363.2787832611539
+canoe,nz,alberta,secondary energy|electricity|renewables,PJ,2030,416.57296730394955
+canoe,nz,alberta,secondary energy|electricity|renewables,PJ,2035,452.36339428036007
+canoe,nz,alberta,secondary energy|electricity|renewables,PJ,2040,490.8468331504876
+canoe,nz,alberta,secondary energy|electricity|renewables,PJ,2045,523.3571160643311
+canoe,nz,alberta,secondary energy|electricity|renewables,PJ,2050,570.7692469151417
+canoe,nz,alberta,secondary energy|electricity|storage,PJ,2025,0.15401928469217452
+canoe,nz,alberta,secondary energy|electricity|storage,PJ,2030,0.1442804663477356
+canoe,nz,alberta,secondary energy|electricity|storage,PJ,2035,0.18561897679632314
+canoe,nz,alberta,secondary energy|electricity|storage,PJ,2045,0.02363515956505447
+canoe,nz,alberta,secondary energy|electricity|storage,PJ,2050,1.9991067190074892
+canoe,nz,british columbia,secondary energy|electricity|hydro,PJ,2025,215.9640571909748
+canoe,nz,british columbia,secondary energy|electricity|hydro,PJ,2030,215.770857016975
+canoe,nz,british columbia,secondary energy|electricity|hydro,PJ,2035,211.5038220392191
+canoe,nz,british columbia,secondary energy|electricity|hydro,PJ,2040,204.48758649560358
+canoe,nz,british columbia,secondary energy|electricity|hydro,PJ,2045,202.48751218001524
+canoe,nz,british columbia,secondary energy|electricity|hydro,PJ,2050,199.90105955561287
+canoe,nz,british columbia,secondary energy|electricity|natural gas,PJ,2025,2.874893180502213
+canoe,nz,british columbia,secondary energy|electricity|natural gas,PJ,2030,2.879182276081143
+canoe,nz,british columbia,secondary energy|electricity|natural gas,PJ,2035,2.8734342034442597
+canoe,nz,british columbia,secondary energy|electricity|natural gas,PJ,2040,0.022426779853060637
+canoe,nz,british columbia,secondary energy|electricity|renewables,PJ,2025,118.77611432550297
+canoe,nz,british columbia,secondary energy|electricity|renewables,PJ,2030,151.77278778354594
+canoe,nz,british columbia,secondary energy|electricity|renewables,PJ,2035,188.0697690828207
+canoe,nz,british columbia,secondary energy|electricity|renewables,PJ,2040,242.19381627412554
+canoe,nz,british columbia,secondary energy|electricity|renewables,PJ,2045,272.4958721352036
+canoe,nz,british columbia,secondary energy|electricity|renewables,PJ,2050,323.3850699884534
+canoe,nz,canada,secondary energy|electricity|bioenergy,PJ,2030,0.02219299982049022
+canoe,nz,canada,secondary energy|electricity|bioenergy,PJ,2035,0.019686403495921236
+canoe,nz,canada,secondary energy|electricity|coal,PJ,2025,0.4099181106518883
+canoe,nz,canada,secondary energy|electricity|coal,PJ,2030,0.4604386680428677
+canoe,nz,canada,secondary energy|electricity|coal,PJ,2035,0.5008473930532082
+canoe,nz,canada,secondary energy|electricity|coal,PJ,2040,0.31570295625532285
+canoe,nz,canada,secondary energy|electricity|coal,PJ,2045,0.22397959896296826
+canoe,nz,canada,secondary energy|electricity|coal,PJ,2050,0.12154358604918253
+canoe,nz,canada,secondary energy|electricity|hydro,PJ,2025,1274.4819312054117
+canoe,nz,canada,secondary energy|electricity|hydro,PJ,2030,1285.2150481261365
+canoe,nz,canada,secondary energy|electricity|hydro,PJ,2035,1242.6324775043615
+canoe,nz,canada,secondary energy|electricity|hydro,PJ,2040,1245.2215102413936
+canoe,nz,canada,secondary energy|electricity|hydro,PJ,2045,1243.18242509944
+canoe,nz,canada,secondary energy|electricity|hydro,PJ,2050,1240.1496366497884
+canoe,nz,canada,secondary energy|electricity|natural gas,PJ,2025,82.44303970923346
+canoe,nz,canada,secondary energy|electricity|natural gas,PJ,2030,91.81105886286144
+canoe,nz,canada,secondary energy|electricity|natural gas,PJ,2035,116.75376126396105
+canoe,nz,canada,secondary energy|electricity|natural gas,PJ,2040,117.4780180573147
+canoe,nz,canada,secondary energy|electricity|natural gas,PJ,2045,105.79357432093632
+canoe,nz,canada,secondary energy|electricity|natural gas,PJ,2050,102.21030827109504
+canoe,nz,canada,secondary energy|electricity|nuclear,PJ,2025,380.73407377470517
+canoe,nz,canada,secondary energy|electricity|nuclear,PJ,2030,282.9089070249507
+canoe,nz,canada,secondary energy|electricity|nuclear,PJ,2035,230.70143644125588
+canoe,nz,canada,secondary energy|electricity|nuclear,PJ,2040,406.5939731169268
+canoe,nz,canada,secondary energy|electricity|nuclear,PJ,2045,517.982743367444
+canoe,nz,canada,secondary energy|electricity|nuclear,PJ,2050,626.8863811128526
+canoe,nz,canada,secondary energy|electricity|renewables,PJ,2025,1168.7097746193026
+canoe,nz,canada,secondary energy|electricity|renewables,PJ,2030,1531.3763228253595
+canoe,nz,canada,secondary energy|electricity|renewables,PJ,2035,1875.935832045052
+canoe,nz,canada,secondary energy|electricity|renewables,PJ,2040,2003.2621718685257
+canoe,nz,canada,secondary energy|electricity|renewables,PJ,2045,2066.236721717431
+canoe,nz,canada,secondary energy|electricity|renewables,PJ,2050,2220.9186274189306
+canoe,nz,canada,secondary energy|electricity|storage,PJ,2025,0.35679096284185696
+canoe,nz,canada,secondary energy|electricity|storage,PJ,2030,0.6211394257943127
+canoe,nz,canada,secondary energy|electricity|storage,PJ,2035,1.191924376865044
+canoe,nz,canada,secondary energy|electricity|storage,PJ,2040,2.3394044345346052
+canoe,nz,canada,secondary energy|electricity|storage,PJ,2045,3.82699250320008
+canoe,nz,canada,secondary energy|electricity|storage,PJ,2050,10.838396643328334
+canoe,nz,manitoba,secondary energy|electricity|hydro,PJ,2025,98.28722304837689
+canoe,nz,manitoba,secondary energy|electricity|hydro,PJ,2030,98.27768317188922
+canoe,nz,manitoba,secondary energy|electricity|hydro,PJ,2035,95.99317122146432
+canoe,nz,manitoba,secondary energy|electricity|hydro,PJ,2040,98.28472336174448
+canoe,nz,manitoba,secondary energy|electricity|hydro,PJ,2045,98.28338968397516
+canoe,nz,manitoba,secondary energy|electricity|hydro,PJ,2050,98.2819439007862
+canoe,nz,manitoba,secondary energy|electricity|renewables,PJ,2025,26.360317414743125
+canoe,nz,manitoba,secondary energy|electricity|renewables,PJ,2030,28.243625685461243
+canoe,nz,manitoba,secondary energy|electricity|renewables,PJ,2035,28.600319695191086
+canoe,nz,manitoba,secondary energy|electricity|renewables,PJ,2040,38.99971533913667
+canoe,nz,manitoba,secondary energy|electricity|renewables,PJ,2045,42.658961309847676
+canoe,nz,manitoba,secondary energy|electricity|renewables,PJ,2050,50.59208190108089
+canoe,nz,manitoba,secondary energy|electricity|storage,PJ,2050,0.01131282099042878
+canoe,nz,new brunswick,secondary energy|electricity|hydro,PJ,2025,10.110559849752244
+canoe,nz,new brunswick,secondary energy|electricity|hydro,PJ,2030,10.110214356098828
+canoe,nz,new brunswick,secondary energy|electricity|hydro,PJ,2035,10.110135630833334
+canoe,nz,new brunswick,secondary energy|electricity|hydro,PJ,2040,10.109943481585896
+canoe,nz,new brunswick,secondary energy|electricity|hydro,PJ,2045,10.109793921271656
+canoe,nz,new brunswick,secondary energy|electricity|hydro,PJ,2050,10.109550890901088
+canoe,nz,new brunswick,secondary energy|electricity|natural gas,PJ,2025,0.5872148013249665
+canoe,nz,new brunswick,secondary energy|electricity|natural gas,PJ,2030,0.586477449021411
+canoe,nz,new brunswick,secondary energy|electricity|natural gas,PJ,2035,0.5864126039587934
+canoe,nz,new brunswick,secondary energy|electricity|natural gas,PJ,2040,0.5855640495956516
+canoe,nz,new brunswick,secondary energy|electricity|natural gas,PJ,2045,0.5851039481702225
+canoe,nz,new brunswick,secondary energy|electricity|nuclear,PJ,2025,20.81372828803144
+canoe,nz,new brunswick,secondary energy|electricity|nuclear,PJ,2030,20.813225886256753
+canoe,nz,new brunswick,secondary energy|electricity|nuclear,PJ,2035,20.514013358036863
+canoe,nz,new brunswick,secondary energy|electricity|nuclear,PJ,2040,18.442102473378725
+canoe,nz,new brunswick,secondary energy|electricity|nuclear,PJ,2045,15.889843612747734
+canoe,nz,new brunswick,secondary energy|electricity|nuclear,PJ,2050,14.37112250882115
+canoe,nz,new brunswick,secondary energy|electricity|renewables,PJ,2025,45.6321756177145
+canoe,nz,new brunswick,secondary energy|electricity|renewables,PJ,2030,45.96300522417804
+canoe,nz,new brunswick,secondary energy|electricity|renewables,PJ,2035,50.19387186766585
+canoe,nz,new brunswick,secondary energy|electricity|renewables,PJ,2040,56.82679030150888
+canoe,nz,new brunswick,secondary energy|electricity|renewables,PJ,2045,61.4123490226082
+canoe,nz,new brunswick,secondary energy|electricity|renewables,PJ,2050,65.84940299608883
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro,PJ,2025,110.23442317168112
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro,PJ,2030,121.2385149817534
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro,PJ,2035,85.12559664582012
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro,PJ,2040,92.49390594011945
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro,PJ,2045,91.8378495404595
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro,PJ,2050,91.39527519631764
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables,PJ,2025,0.6673036676158778
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables,PJ,2030,0.6790334784750575
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables,PJ,2035,0.6675188894353459
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables,PJ,2040,0.02143608637952153
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables,PJ,2045,0.03460915044455846
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables,PJ,2050,0.05350511195091534
+canoe,nz,nova scotia,secondary energy|electricity|coal,PJ,2025,0.4099181106518883
+canoe,nz,nova scotia,secondary energy|electricity|coal,PJ,2030,0.3525405886942122
+canoe,nz,nova scotia,secondary energy|electricity|coal,PJ,2035,0.39808958578474296
+canoe,nz,nova scotia,secondary energy|electricity|coal,PJ,2040,0.2564031061711533
+canoe,nz,nova scotia,secondary energy|electricity|coal,PJ,2045,0.1771547210464032
+canoe,nz,nova scotia,secondary energy|electricity|coal,PJ,2050,0.12154358604918253
+canoe,nz,nova scotia,secondary energy|electricity|hydro,PJ,2025,3.4852073881564247
+canoe,nz,nova scotia,secondary energy|electricity|hydro,PJ,2030,3.485060163892083
+canoe,nz,nova scotia,secondary energy|electricity|hydro,PJ,2035,3.4849302737087067
+canoe,nz,nova scotia,secondary energy|electricity|hydro,PJ,2040,3.4847610329950234
+canoe,nz,nova scotia,secondary energy|electricity|hydro,PJ,2045,3.4844561835175245
+canoe,nz,nova scotia,secondary energy|electricity|hydro,PJ,2050,3.48388713949839
+canoe,nz,nova scotia,secondary energy|electricity|natural gas,PJ,2025,3.0911091468501963
+canoe,nz,nova scotia,secondary energy|electricity|natural gas,PJ,2030,2.7598349137718685
+canoe,nz,nova scotia,secondary energy|electricity|natural gas,PJ,2035,3.054438145822659
+canoe,nz,nova scotia,secondary energy|electricity|natural gas,PJ,2040,5.231024387463965
+canoe,nz,nova scotia,secondary energy|electricity|natural gas,PJ,2045,5.826804630352219
+canoe,nz,nova scotia,secondary energy|electricity|natural gas,PJ,2050,5.859283653009688
+canoe,nz,nova scotia,secondary energy|electricity|renewables,PJ,2025,32.19299977913862
+canoe,nz,nova scotia,secondary energy|electricity|renewables,PJ,2030,46.28750681448435
+canoe,nz,nova scotia,secondary energy|electricity|renewables,PJ,2035,52.78343562628991
+canoe,nz,nova scotia,secondary energy|electricity|renewables,PJ,2040,57.9931641981929
+canoe,nz,nova scotia,secondary energy|electricity|renewables,PJ,2045,58.70215101067636
+canoe,nz,nova scotia,secondary energy|electricity|renewables,PJ,2050,61.28023971135115
+canoe,nz,nova scotia,secondary energy|electricity|storage,PJ,2035,0.013022519956730889
+canoe,nz,nova scotia,secondary energy|electricity|storage,PJ,2040,0.023355206774677586
+canoe,nz,nova scotia,secondary energy|electricity|storage,PJ,2045,0.06428191290433441
+canoe,nz,nova scotia,secondary energy|electricity|storage,PJ,2050,0.6174381020701207
+canoe,nz,ontario,secondary energy|electricity|bioenergy,PJ,2030,0.022051953021479016
+canoe,nz,ontario,secondary energy|electricity|bioenergy,PJ,2035,0.0195458045471146
+canoe,nz,ontario,secondary energy|electricity|hydro,PJ,2025,134.623595795306
+canoe,nz,ontario,secondary energy|electricity|hydro,PJ,2030,134.62357099376848
+canoe,nz,ontario,secondary energy|electricity|hydro,PJ,2035,134.62358631571016
+canoe,nz,ontario,secondary energy|electricity|hydro,PJ,2040,134.62315136506027
+canoe,nz,ontario,secondary energy|electricity|hydro,PJ,2045,134.62316394854307
+canoe,nz,ontario,secondary energy|electricity|hydro,PJ,2050,134.62308238754525
+canoe,nz,ontario,secondary energy|electricity|natural gas,PJ,2025,10.084980563721212
+canoe,nz,ontario,secondary energy|electricity|natural gas,PJ,2030,17.6166967020238
+canoe,nz,ontario,secondary energy|electricity|natural gas,PJ,2035,39.59369986577083
+canoe,nz,ontario,secondary energy|electricity|natural gas,PJ,2040,31.299722340610835
+canoe,nz,ontario,secondary energy|electricity|natural gas,PJ,2045,28.87072878703269
+canoe,nz,ontario,secondary energy|electricity|natural gas,PJ,2050,26.260092553803158
+canoe,nz,ontario,secondary energy|electricity|nuclear,PJ,2025,359.92034548667374
+canoe,nz,ontario,secondary energy|electricity|nuclear,PJ,2030,262.0956811386939
+canoe,nz,ontario,secondary energy|electricity|nuclear,PJ,2035,210.18742308321902
+canoe,nz,ontario,secondary energy|electricity|nuclear,PJ,2040,388.1518706435481
+canoe,nz,ontario,secondary energy|electricity|nuclear,PJ,2045,502.0928997546962
+canoe,nz,ontario,secondary energy|electricity|nuclear,PJ,2050,612.5152586040315
+canoe,nz,ontario,secondary energy|electricity|renewables,PJ,2025,173.37249754343802
+canoe,nz,ontario,secondary energy|electricity|renewables,PJ,2030,368.0085980741099
+canoe,nz,ontario,secondary energy|electricity|renewables,PJ,2035,573.7304126042088
+canoe,nz,ontario,secondary energy|electricity|renewables,PJ,2040,562.4471990655564
+canoe,nz,ontario,secondary energy|electricity|renewables,PJ,2045,540.4539324202897
+canoe,nz,ontario,secondary energy|electricity|renewables,PJ,2050,535.2965794746582
+canoe,nz,ontario,secondary energy|electricity|storage,PJ,2025,0.09123094418177498
+canoe,nz,ontario,secondary energy|electricity|storage,PJ,2030,0.1750399826044974
+canoe,nz,ontario,secondary energy|electricity|storage,PJ,2035,0.3460985937720266
+canoe,nz,ontario,secondary energy|electricity|storage,PJ,2040,0.7837565156706052
+canoe,nz,ontario,secondary energy|electricity|storage,PJ,2045,1.9462311697354415
+canoe,nz,ontario,secondary energy|electricity|storage,PJ,2050,4.574853650200926
+canoe,nz,prince edward island,secondary energy|electricity|natural gas,PJ,2025,2.9674015094340613
+canoe,nz,prince edward island,secondary energy|electricity|natural gas,PJ,2030,4.2531092947179
+canoe,nz,prince edward island,secondary energy|electricity|natural gas,PJ,2035,5.084663468981071
+canoe,nz,prince edward island,secondary energy|electricity|natural gas,PJ,2040,6.0038546760464175
+canoe,nz,prince edward island,secondary energy|electricity|natural gas,PJ,2045,5.206428455041218
+canoe,nz,prince edward island,secondary energy|electricity|natural gas,PJ,2050,4.750584260599824
+canoe,nz,prince edward island,secondary energy|electricity|renewables,PJ,2025,19.793462930516483
+canoe,nz,prince edward island,secondary energy|electricity|renewables,PJ,2030,21.960384233135287
+canoe,nz,prince edward island,secondary energy|electricity|renewables,PJ,2035,30.71877907687657
+canoe,nz,prince edward island,secondary energy|electricity|renewables,PJ,2040,38.84875579896966
+canoe,nz,prince edward island,secondary energy|electricity|renewables,PJ,2045,40.46367382346108
+canoe,nz,prince edward island,secondary energy|electricity|renewables,PJ,2050,42.686041874907424
+canoe,nz,prince edward island,secondary energy|electricity|storage,PJ,2025,0.0453219094630507
+canoe,nz,prince edward island,secondary energy|electricity|storage,PJ,2030,0.21075750257070264
+canoe,nz,prince edward island,secondary energy|electricity|storage,PJ,2035,0.5013575008617016
+canoe,nz,prince edward island,secondary energy|electricity|storage,PJ,2040,1.4425666805124193
+canoe,nz,prince edward island,secondary energy|electricity|storage,PJ,2045,1.6943010513294154
+canoe,nz,prince edward island,secondary energy|electricity|storage,PJ,2050,2.0993358770763986
+canoe,nz,quebec,secondary energy|electricity|hydro,PJ,2025,681.2458141066311
+canoe,nz,quebec,secondary energy|electricity|hydro,PJ,2030,681.1781810460475
+canoe,nz,quebec,secondary energy|electricity|hydro,PJ,2035,681.260587821369
+canoe,nz,quebec,secondary energy|electricity|hydro,PJ,2040,681.2069719430249
+canoe,nz,quebec,secondary energy|electricity|hydro,PJ,2045,681.8260685342756
+canoe,nz,quebec,secondary energy|electricity|hydro,PJ,2050,681.8248140478117
+canoe,nz,quebec,secondary energy|electricity|natural gas,PJ,2025,0.2670122058367223
+canoe,nz,quebec,secondary energy|electricity|natural gas,PJ,2030,0.2670935996615083
+canoe,nz,quebec,secondary energy|electricity|natural gas,PJ,2035,0.26702611225763817
+canoe,nz,quebec,secondary energy|electricity|natural gas,PJ,2040,0.16388722372161707
+canoe,nz,quebec,secondary energy|electricity|natural gas,PJ,2045,0.16388737828278105
+canoe,nz,quebec,secondary energy|electricity|renewables,PJ,2025,299.63785311307345
+canoe,nz,quebec,secondary energy|electricity|renewables,PJ,2030,349.0141574633829
+canoe,nz,quebec,secondary energy|electricity|renewables,PJ,2035,379.7226549577285
+canoe,nz,quebec,secondary energy|electricity|renewables,PJ,2040,383.81868873952294
+canoe,nz,quebec,secondary energy|electricity|renewables,PJ,2045,382.5836845879904
+canoe,nz,quebec,secondary energy|electricity|renewables,PJ,2050,406.01527515356673
+canoe,nz,saskatchewan,secondary energy|electricity|coal,PJ,2030,0.10789807934865552
+canoe,nz,saskatchewan,secondary energy|electricity|coal,PJ,2035,0.10275780726846528
+canoe,nz,saskatchewan,secondary energy|electricity|coal,PJ,2040,0.05929985008416952
+canoe,nz,saskatchewan,secondary energy|electricity|coal,PJ,2045,0.04682487791656503
+canoe,nz,saskatchewan,secondary energy|electricity|hydro,PJ,2025,13.196952806509929
+canoe,nz,saskatchewan,secondary energy|electricity|hydro,PJ,2030,13.19695002265815
+canoe,nz,saskatchewan,secondary energy|electricity|hydro,PJ,2035,13.196870999390333
+canoe,nz,saskatchewan,secondary energy|electricity|hydro,PJ,2040,13.196864905494367
+canoe,nz,saskatchewan,secondary energy|electricity|hydro,PJ,2045,13.19681064323639
+canoe,nz,saskatchewan,secondary energy|electricity|hydro,PJ,2050,13.196814866780606
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas,PJ,2025,15.828441701474604
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas,PJ,2030,14.159209386965923
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas,PJ,2035,14.489923520528315
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas,PJ,2040,17.65717561363812
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas,PJ,2045,14.842174853498623
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas,PJ,2050,11.8960631977895
+canoe,nz,saskatchewan,secondary energy|electricity|renewables,PJ,2025,88.99826696640564
+canoe,nz,saskatchewan,secondary energy|electricity|renewables,PJ,2030,102.87425676463718
+canoe,nz,saskatchewan,secondary energy|electricity|renewables,PJ,2035,119.08567596447517
+canoe,nz,saskatchewan,secondary energy|electricity|renewables,PJ,2040,131.26577291464548
+canoe,nz,saskatchewan,secondary energy|electricity|renewables,PJ,2045,144.0743721925783
+canoe,nz,saskatchewan,secondary energy|electricity|renewables,PJ,2050,164.99118429173126
+canoe,nz,saskatchewan,secondary energy|electricity|storage,PJ,2025,0.06360375046721567
+canoe,nz,saskatchewan,secondary energy|electricity|storage,PJ,2030,0.08252168195141656
+canoe,nz,saskatchewan,secondary energy|electricity|storage,PJ,2035,0.1359611203399205
+canoe,nz,saskatchewan,secondary energy|electricity|storage,PJ,2040,0.06919853468793247
+canoe,nz,saskatchewan,secondary energy|electricity|storage,PJ,2045,0.08583691502222725
+canoe,nz,saskatchewan,secondary energy|electricity|storage,PJ,2050,1.5236097526108965
+canoe,nz,alberta,secondary energy|electricity|hydro|reservoir,PJ,2025,6.176578611713435
+canoe,nz,alberta,secondary energy|electricity|hydro|reservoir,PJ,2030,6.176575527363682
+canoe,nz,alberta,secondary energy|electricity|hydro|reservoir,PJ,2035,6.1765537184352794
+canoe,nz,alberta,secondary energy|electricity|hydro|reservoir,PJ,2040,6.176514206091123
+canoe,nz,alberta,secondary energy|electricity|hydro|reservoir,PJ,2045,6.176392771439944
+canoe,nz,alberta,secondary energy|electricity|hydro|reservoir,PJ,2050,6.176349063783581
+canoe,nz,alberta,secondary energy|electricity|hydro|run of river,PJ,2025,1.1575192363097333
+canoe,nz,alberta,secondary energy|electricity|hydro|run of river,PJ,2030,1.1574408456901415
+canoe,nz,alberta,secondary energy|electricity|hydro|run of river,PJ,2035,1.1572228384112746
+canoe,nz,alberta,secondary energy|electricity|hydro|run of river,PJ,2040,1.157087509674585
+canoe,nz,alberta,secondary energy|electricity|hydro|run of river,PJ,2045,1.1569876927059393
+canoe,nz,alberta,secondary energy|electricity|hydro|run of river,PJ,2050,1.1568596007509202
+canoe,nz,alberta,secondary energy|electricity|natural gas|cogeneration,PJ,2025,45.2143158834072
+canoe,nz,alberta,secondary energy|electricity|natural gas|cogeneration,PJ,2030,45.21431571474195
+canoe,nz,alberta,secondary energy|electricity|natural gas|cogeneration,PJ,2035,45.21431561587719
+canoe,nz,alberta,secondary energy|electricity|natural gas|cogeneration,PJ,2040,45.21431563072511
+canoe,nz,alberta,secondary energy|electricity|natural gas|cogeneration,PJ,2045,27.580282665630918
+canoe,nz,alberta,secondary energy|electricity|natural gas|cogeneration,PJ,2050,17.729690920361868
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle,PJ,2025,1.51848731690061
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle,PJ,2030,4.064262102278669
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle,PJ,2035,5.587860804756572
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle,PJ,2040,9.38911480429961
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle,PJ,2045,5.8534227619784325
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle,PJ,2050,4.669651293707134
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2030,0.0108774235972727
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2040,1.9109325513603086
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2045,16.864574567807082
+canoe,nz,alberta,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2050,31.044550041422102
+canoe,nz,alberta,secondary energy|electricity|renewables|solar PV,PJ,2025,10.132722947059776
+canoe,nz,alberta,secondary energy|electricity|renewables|solar PV,PJ,2030,26.421434681051046
+canoe,nz,alberta,secondary energy|electricity|renewables|solar PV,PJ,2035,66.4011089828572
+canoe,nz,alberta,secondary energy|electricity|renewables|solar PV,PJ,2040,113.34555239020386
+canoe,nz,alberta,secondary energy|electricity|renewables|solar PV,PJ,2045,150.4717716589474
+canoe,nz,alberta,secondary energy|electricity|renewables|solar PV,PJ,2050,215.80245661111692
+canoe,nz,alberta,secondary energy|electricity|renewables|wind onshore,PJ,2025,353.1460603140941
+canoe,nz,alberta,secondary energy|electricity|renewables|wind onshore,PJ,2030,390.1515326228985
+canoe,nz,alberta,secondary energy|electricity|renewables|wind onshore,PJ,2035,385.9622852975029
+canoe,nz,alberta,secondary energy|electricity|renewables|wind onshore,PJ,2040,377.50128076028375
+canoe,nz,alberta,secondary energy|electricity|renewables|wind onshore,PJ,2045,372.88534440538365
+canoe,nz,alberta,secondary energy|electricity|renewables|wind onshore,PJ,2050,354.9667903040248
+canoe,nz,alberta,secondary energy|electricity|storage|battery storage,PJ,2025,0.15401928469217452
+canoe,nz,alberta,secondary energy|electricity|storage|battery storage,PJ,2030,0.1442804663477356
+canoe,nz,alberta,secondary energy|electricity|storage|battery storage,PJ,2035,0.18561897679632314
+canoe,nz,alberta,secondary energy|electricity|storage|battery storage,PJ,2045,0.02363515956505447
+canoe,nz,alberta,secondary energy|electricity|storage|battery storage,PJ,2050,1.9991067190074892
+canoe,nz,british columbia,secondary energy|electricity|hydro|reservoir,PJ,2025,189.99236240358994
+canoe,nz,british columbia,secondary energy|electricity|hydro|reservoir,PJ,2030,189.7991732021554
+canoe,nz,british columbia,secondary energy|electricity|hydro|reservoir,PJ,2035,185.53232803871924
+canoe,nz,british columbia,secondary energy|electricity|hydro|reservoir,PJ,2040,178.51620717661746
+canoe,nz,british columbia,secondary energy|electricity|hydro|reservoir,PJ,2045,176.5162889395206
+canoe,nz,british columbia,secondary energy|electricity|hydro|reservoir,PJ,2050,173.93002186211254
+canoe,nz,british columbia,secondary energy|electricity|hydro|run of river,PJ,2025,25.97169478738488
+canoe,nz,british columbia,secondary energy|electricity|hydro|run of river,PJ,2030,25.971683814819563
+canoe,nz,british columbia,secondary energy|electricity|hydro|run of river,PJ,2035,25.97149400049987
+canoe,nz,british columbia,secondary energy|electricity|hydro|run of river,PJ,2040,25.971379318986095
+canoe,nz,british columbia,secondary energy|electricity|hydro|run of river,PJ,2045,25.971223240494655
+canoe,nz,british columbia,secondary energy|electricity|hydro|run of river,PJ,2050,25.97103769350033
+canoe,nz,british columbia,secondary energy|electricity|natural gas|cogeneration,PJ,2025,2.872801132770845
+canoe,nz,british columbia,secondary energy|electricity|natural gas|cogeneration,PJ,2030,2.8728012282044384
+canoe,nz,british columbia,secondary energy|electricity|natural gas|cogeneration,PJ,2035,2.872800870252533
+canoe,nz,british columbia,secondary energy|electricity|natural gas|combined cycle,PJ,2040,0.0216844848657787
+canoe,nz,british columbia,secondary energy|electricity|renewables|solar PV,PJ,2025,0.023486709062449762
+canoe,nz,british columbia,secondary energy|electricity|renewables|solar PV,PJ,2030,10.089174730753166
+canoe,nz,british columbia,secondary energy|electricity|renewables|solar PV,PJ,2035,46.214821016895925
+canoe,nz,british columbia,secondary energy|electricity|renewables|solar PV,PJ,2040,104.74925775526344
+canoe,nz,british columbia,secondary energy|electricity|renewables|solar PV,PJ,2045,137.99988825284538
+canoe,nz,british columbia,secondary energy|electricity|renewables|solar PV,PJ,2050,189.22470343614023
+canoe,nz,british columbia,secondary energy|electricity|renewables|wind onshore,PJ,2025,118.75262761644053
+canoe,nz,british columbia,secondary energy|electricity|renewables|wind onshore,PJ,2030,141.68361305279277
+canoe,nz,british columbia,secondary energy|electricity|renewables|wind onshore,PJ,2035,141.85494806592476
+canoe,nz,british columbia,secondary energy|electricity|renewables|wind onshore,PJ,2040,137.4445585188621
+canoe,nz,british columbia,secondary energy|electricity|renewables|wind onshore,PJ,2045,134.49598388235822
+canoe,nz,british columbia,secondary energy|electricity|renewables|wind onshore,PJ,2050,134.16036655231315
+canoe,nz,canada,secondary energy|electricity|bioenergy|biogas,PJ,2030,0.02219299982049022
+canoe,nz,canada,secondary energy|electricity|bioenergy|biogas,PJ,2035,0.019686403495921236
+canoe,nz,canada,secondary energy|electricity|coal|ccs,PJ,2030,0.10789807934865552
+canoe,nz,canada,secondary energy|electricity|coal|ccs,PJ,2035,0.10275780726846528
+canoe,nz,canada,secondary energy|electricity|coal|ccs,PJ,2040,0.05929985008416952
+canoe,nz,canada,secondary energy|electricity|coal|ccs,PJ,2045,0.04682487791656503
+canoe,nz,canada,secondary energy|electricity|coal|steam turbine,PJ,2025,0.4099181106518883
+canoe,nz,canada,secondary energy|electricity|coal|steam turbine,PJ,2030,0.3525405886942122
+canoe,nz,canada,secondary energy|electricity|coal|steam turbine,PJ,2035,0.39808958578474296
+canoe,nz,canada,secondary energy|electricity|coal|steam turbine,PJ,2040,0.2564031061711533
+canoe,nz,canada,secondary energy|electricity|coal|steam turbine,PJ,2045,0.1771547210464032
+canoe,nz,canada,secondary energy|electricity|coal|steam turbine,PJ,2050,0.12154358604918253
+canoe,nz,canada,secondary energy|electricity|hydro|reservoir,PJ,2025,1075.148751155588
+canoe,nz,canada,secondary energy|electricity|hydro|reservoir,PJ,2030,1085.882229522611
+canoe,nz,canada,secondary energy|electricity|hydro|reservoir,PJ,2035,1043.300776468535
+canoe,nz,canada,secondary energy|electricity|hydro|reservoir,PJ,2040,1045.8909651637614
+canoe,nz,canada,secondary energy|electricity|hydro|reservoir,PJ,2045,1043.8527145382081
+canoe,nz,canada,secondary energy|electricity|hydro|reservoir,PJ,2050,1040.8214166488062
+canoe,nz,canada,secondary energy|electricity|hydro|run of river,PJ,2025,199.33318004982377
+canoe,nz,canada,secondary energy|electricity|hydro|run of river,PJ,2030,199.33281860352554
+canoe,nz,canada,secondary energy|electricity|hydro|run of river,PJ,2035,199.33170103582648
+canoe,nz,canada,secondary energy|electricity|hydro|run of river,PJ,2040,199.33054507763217
+canoe,nz,canada,secondary energy|electricity|hydro|run of river,PJ,2045,199.3297105612319
+canoe,nz,canada,secondary energy|electricity|hydro|run of river,PJ,2050,199.3282200009821
+canoe,nz,canada,secondary energy|electricity|natural gas|cogeneration,PJ,2025,68.01041108637669
+canoe,nz,canada,secondary energy|electricity|natural gas|cogeneration,PJ,2030,68.00975488661096
+canoe,nz,canada,secondary energy|electricity|natural gas|cogeneration,PJ,2035,68.00962189684681
+canoe,nz,canada,secondary energy|electricity|natural gas|cogeneration,PJ,2040,65.02611595018732
+canoe,nz,canada,secondary energy|electricity|natural gas|cogeneration,PJ,2045,41.927020735706186
+canoe,nz,canada,secondary energy|electricity|natural gas|cogeneration,PJ,2050,25.188130473374347
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle,PJ,2025,6.461511613520339
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle,PJ,2030,16.0789741550354
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle,PJ,2035,20.87094242529844
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle,PJ,2040,22.67744769168882
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle,PJ,2045,17.946772472287726
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle,PJ,2050,15.708127424015391
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2025,7.645844211930801
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2030,6.921701755280779
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2035,26.69235340165451
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2040,28.83982233157726
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2045,45.42589102226354
+canoe,nz,canada,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2050,61.313529244707695
+canoe,nz,canada,secondary energy|electricity|natural gas|combustion turbine,PJ,2025,0.32527279740562304
+canoe,nz,canada,secondary energy|electricity|natural gas|combustion turbine,PJ,2030,0.8006280659342977
+canoe,nz,canada,secondary energy|electricity|natural gas|combustion turbine,PJ,2035,1.180843540161297
+canoe,nz,canada,secondary energy|electricity|natural gas|combustion turbine,PJ,2040,0.9346320838612947
+canoe,nz,canada,secondary energy|electricity|natural gas|combustion turbine,PJ,2045,0.493890090678863
+canoe,nz,canada,secondary energy|electricity|nuclear|candu,PJ,2025,380.73407377470517
+canoe,nz,canada,secondary energy|electricity|nuclear|candu,PJ,2030,282.9089070249507
+canoe,nz,canada,secondary energy|electricity|nuclear|candu,PJ,2035,230.70143644125588
+canoe,nz,canada,secondary energy|electricity|nuclear|candu,PJ,2040,177.4781251037728
+canoe,nz,canada,secondary energy|electricity|nuclear|candu,PJ,2045,71.4562317404777
+canoe,nz,canada,secondary energy|electricity|nuclear|candu,PJ,2050,69.9374825351518
+canoe,nz,canada,secondary energy|electricity|nuclear|smr,PJ,2040,229.11584801315402
+canoe,nz,canada,secondary energy|electricity|nuclear|smr,PJ,2045,446.5265116269662
+canoe,nz,canada,secondary energy|electricity|nuclear|smr,PJ,2050,556.9488985777008
+canoe,nz,canada,secondary energy|electricity|renewables|solar PV,PJ,2025,15.372331035925898
+canoe,nz,canada,secondary energy|electricity|renewables|solar PV,PJ,2030,147.73077376775618
+canoe,nz,canada,secondary energy|electricity|renewables|solar PV,PJ,2035,458.5482713841838
+canoe,nz,canada,secondary energy|electricity|renewables|solar PV,PJ,2040,581.1672464577937
+canoe,nz,canada,secondary energy|electricity|renewables|solar PV,PJ,2045,667.7106499089291
+canoe,nz,canada,secondary energy|electricity|renewables|solar PV,PJ,2050,806.1527744562694
+canoe,nz,canada,secondary energy|electricity|renewables|wind onshore,PJ,2025,1153.3374435833766
+canoe,nz,canada,secondary energy|electricity|renewables|wind onshore,PJ,2030,1383.6455490576031
+canoe,nz,canada,secondary energy|electricity|renewables|wind onshore,PJ,2035,1417.3875606608683
+canoe,nz,canada,secondary energy|electricity|renewables|wind onshore,PJ,2040,1422.0949254107318
+canoe,nz,canada,secondary energy|electricity|renewables|wind onshore,PJ,2045,1398.526071808502
+canoe,nz,canada,secondary energy|electricity|renewables|wind onshore,PJ,2050,1414.765852962661
+canoe,nz,canada,secondary energy|electricity|storage|battery storage,PJ,2025,0.29748735078143834
+canoe,nz,canada,secondary energy|electricity|storage|battery storage,PJ,2030,0.47830058570204836
+canoe,nz,canada,secondary energy|electricity|storage|battery storage,PJ,2035,0.8808717626620917
+canoe,nz,canada,secondary energy|electricity|storage|battery storage,PJ,2040,1.9370203381227782
+canoe,nz,canada,secondary energy|electricity|storage|battery storage,PJ,2045,3.2609932058851623
+canoe,nz,canada,secondary energy|electricity|storage|battery storage,PJ,2050,10.399773166809295
+canoe,nz,canada,secondary energy|electricity|storage|pumped hydro,PJ,2025,0.05930361206041865
+canoe,nz,canada,secondary energy|electricity|storage|pumped hydro,PJ,2030,0.14283884009226433
+canoe,nz,canada,secondary energy|electricity|storage|pumped hydro,PJ,2035,0.3110526142029524
+canoe,nz,canada,secondary energy|electricity|storage|pumped hydro,PJ,2040,0.4023840964118268
+canoe,nz,canada,secondary energy|electricity|storage|pumped hydro,PJ,2045,0.5659992973149175
+canoe,nz,canada,secondary energy|electricity|storage|pumped hydro,PJ,2050,0.43862347651903855
+canoe,nz,manitoba,secondary energy|electricity|hydro|reservoir,PJ,2025,97.97848462844307
+canoe,nz,manitoba,secondary energy|electricity|hydro|reservoir,PJ,2030,97.96913426910884
+canoe,nz,manitoba,secondary energy|electricity|hydro|reservoir,PJ,2035,95.68479008208193
+canoe,nz,manitoba,secondary energy|electricity|hydro|reservoir,PJ,2040,97.97641076468649
+canoe,nz,manitoba,secondary energy|electricity|hydro|reservoir,PJ,2045,97.97523332794411
+canoe,nz,manitoba,secondary energy|electricity|hydro|reservoir,PJ,2050,97.97398060019768
+canoe,nz,manitoba,secondary energy|electricity|hydro|run of river,PJ,2025,0.3087384199338062
+canoe,nz,manitoba,secondary energy|electricity|hydro|run of river,PJ,2030,0.3085489027803884
+canoe,nz,manitoba,secondary energy|electricity|hydro|run of river,PJ,2035,0.30838113938238637
+canoe,nz,manitoba,secondary energy|electricity|hydro|run of river,PJ,2040,0.3083125970579889
+canoe,nz,manitoba,secondary energy|electricity|hydro|run of river,PJ,2045,0.3081563560310494
+canoe,nz,manitoba,secondary energy|electricity|hydro|run of river,PJ,2050,0.307963300588523
+canoe,nz,manitoba,secondary energy|electricity|renewables|solar PV,PJ,2040,0.017265677637335847
+canoe,nz,manitoba,secondary energy|electricity|renewables|solar PV,PJ,2045,0.029122847530244956
+canoe,nz,manitoba,secondary energy|electricity|renewables|solar PV,PJ,2050,0.044929207066307035
+canoe,nz,manitoba,secondary energy|electricity|renewables|wind onshore,PJ,2025,26.35951785514087
+canoe,nz,manitoba,secondary energy|electricity|renewables|wind onshore,PJ,2030,28.24055323434502
+canoe,nz,manitoba,secondary energy|electricity|renewables|wind onshore,PJ,2035,28.59195613786209
+canoe,nz,manitoba,secondary energy|electricity|renewables|wind onshore,PJ,2040,38.98244966149934
+canoe,nz,manitoba,secondary energy|electricity|renewables|wind onshore,PJ,2045,42.62983846231743
+canoe,nz,manitoba,secondary energy|electricity|renewables|wind onshore,PJ,2050,50.54715269401458
+canoe,nz,manitoba,secondary energy|electricity|storage|battery storage,PJ,2050,0.01131282099042878
+canoe,nz,new brunswick,secondary energy|electricity|hydro|reservoir,PJ,2025,9.542399940610622
+canoe,nz,new brunswick,secondary energy|electricity|hydro|reservoir,PJ,2030,9.542192302496243
+canoe,nz,new brunswick,secondary energy|electricity|hydro|reservoir,PJ,2035,9.542204173958462
+canoe,nz,new brunswick,secondary energy|electricity|hydro|reservoir,PJ,2040,9.542212665861207
+canoe,nz,new brunswick,secondary energy|electricity|hydro|reservoir,PJ,2045,9.54221872685029
+canoe,nz,new brunswick,secondary energy|electricity|hydro|reservoir,PJ,2050,9.542109983341522
+canoe,nz,new brunswick,secondary energy|electricity|hydro|run of river,PJ,2025,0.5681599091416211
+canoe,nz,new brunswick,secondary energy|electricity|hydro|run of river,PJ,2030,0.5680220536025848
+canoe,nz,new brunswick,secondary energy|electricity|hydro|run of river,PJ,2035,0.5679314568748723
+canoe,nz,new brunswick,secondary energy|electricity|hydro|run of river,PJ,2040,0.567730815724688
+canoe,nz,new brunswick,secondary energy|electricity|hydro|run of river,PJ,2045,0.5675751944213642
+canoe,nz,new brunswick,secondary energy|electricity|hydro|run of river,PJ,2050,0.567440907559567
+canoe,nz,new brunswick,secondary energy|electricity|natural gas|cogeneration,PJ,2025,0.5872148013249665
+canoe,nz,new brunswick,secondary energy|electricity|natural gas|cogeneration,PJ,2030,0.586477449021411
+canoe,nz,new brunswick,secondary energy|electricity|natural gas|cogeneration,PJ,2035,0.5864126039587934
+canoe,nz,new brunswick,secondary energy|electricity|natural gas|cogeneration,PJ,2040,0.5855640495956516
+canoe,nz,new brunswick,secondary energy|electricity|natural gas|cogeneration,PJ,2045,0.5851039481702225
+canoe,nz,new brunswick,secondary energy|electricity|nuclear|candu,PJ,2025,20.81372828803144
+canoe,nz,new brunswick,secondary energy|electricity|nuclear|candu,PJ,2030,20.813225886256753
+canoe,nz,new brunswick,secondary energy|electricity|nuclear|candu,PJ,2035,20.514013358036863
+canoe,nz,new brunswick,secondary energy|electricity|nuclear|candu,PJ,2040,18.442102473378725
+canoe,nz,new brunswick,secondary energy|electricity|nuclear|candu,PJ,2045,15.889843612747734
+canoe,nz,new brunswick,secondary energy|electricity|nuclear|candu,PJ,2050,14.37112250882115
+canoe,nz,new brunswick,secondary energy|electricity|renewables|solar PV,PJ,2030,0.014763748453151353
+canoe,nz,new brunswick,secondary energy|electricity|renewables|solar PV,PJ,2035,0.13358512908384654
+canoe,nz,new brunswick,secondary energy|electricity|renewables|solar PV,PJ,2040,1.590205663693487
+canoe,nz,new brunswick,secondary energy|electricity|renewables|solar PV,PJ,2045,5.210147992318043
+canoe,nz,new brunswick,secondary energy|electricity|renewables|solar PV,PJ,2050,8.297301450283463
+canoe,nz,new brunswick,secondary energy|electricity|renewables|wind onshore,PJ,2025,45.62824221477477
+canoe,nz,new brunswick,secondary energy|electricity|renewables|wind onshore,PJ,2030,45.948241475724885
+canoe,nz,new brunswick,secondary energy|electricity|renewables|wind onshore,PJ,2035,50.060286738582
+canoe,nz,new brunswick,secondary energy|electricity|renewables|wind onshore,PJ,2040,55.23658463781539
+canoe,nz,new brunswick,secondary energy|electricity|renewables|wind onshore,PJ,2045,56.20220103029015
+canoe,nz,new brunswick,secondary energy|electricity|renewables|wind onshore,PJ,2050,57.552101545805364
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|reservoir,PJ,2025,110.1836624795502
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|reservoir,PJ,2030,121.18759066026266
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|reservoir,PJ,2035,85.07491876755904
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|reservoir,PJ,2040,92.44337566058158
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|reservoir,PJ,2045,91.78750752424338
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|reservoir,PJ,2050,91.34513713846754
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|run of river,PJ,2025,0.05076069213091515
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|run of river,PJ,2030,0.05092432149074053
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|run of river,PJ,2035,0.050677878261077655
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|run of river,PJ,2040,0.05053027953786139
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|run of river,PJ,2045,0.050342016216115566
+canoe,nz,newfoundland and labrador,secondary energy|electricity|hydro|run of river,PJ,2050,0.05013805785010265
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables|wind onshore,PJ,2025,0.6673036676158778
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables|wind onshore,PJ,2030,0.6790334784750575
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables|wind onshore,PJ,2035,0.6675188894353459
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables|wind onshore,PJ,2040,0.02127506181649563
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables|wind onshore,PJ,2045,0.03405840875647433
+canoe,nz,newfoundland and labrador,secondary energy|electricity|renewables|wind onshore,PJ,2050,0.051740511267676856
+canoe,nz,nova scotia,secondary energy|electricity|coal|steam turbine,PJ,2025,0.4099181106518883
+canoe,nz,nova scotia,secondary energy|electricity|coal|steam turbine,PJ,2030,0.3525405886942122
+canoe,nz,nova scotia,secondary energy|electricity|coal|steam turbine,PJ,2035,0.39808958578474296
+canoe,nz,nova scotia,secondary energy|electricity|coal|steam turbine,PJ,2040,0.2564031061711533
+canoe,nz,nova scotia,secondary energy|electricity|coal|steam turbine,PJ,2045,0.1771547210464032
+canoe,nz,nova scotia,secondary energy|electricity|coal|steam turbine,PJ,2050,0.12154358604918253
+canoe,nz,nova scotia,secondary energy|electricity|hydro|reservoir,PJ,2025,3.3644454053478094
+canoe,nz,nova scotia,secondary energy|electricity|hydro|reservoir,PJ,2030,3.364417627321528
+canoe,nz,nova scotia,secondary energy|electricity|hydro|reservoir,PJ,2035,3.3643800429963484
+canoe,nz,nova scotia,secondary energy|electricity|hydro|reservoir,PJ,2040,3.364324653492746
+canoe,nz,nova scotia,secondary energy|electricity|hydro|reservoir,PJ,2045,3.3641657919276913
+canoe,nz,nova scotia,secondary energy|electricity|hydro|reservoir,PJ,2050,3.3637782793398694
+canoe,nz,nova scotia,secondary energy|electricity|hydro|run of river,PJ,2025,0.12076198280861529
+canoe,nz,nova scotia,secondary energy|electricity|hydro|run of river,PJ,2030,0.12064253657055504
+canoe,nz,nova scotia,secondary energy|electricity|hydro|run of river,PJ,2035,0.12055023071235806
+canoe,nz,nova scotia,secondary energy|electricity|hydro|run of river,PJ,2040,0.12043637950227715
+canoe,nz,nova scotia,secondary energy|electricity|hydro|run of river,PJ,2045,0.12029039158983322
+canoe,nz,nova scotia,secondary energy|electricity|hydro|run of river,PJ,2050,0.12010886015852076
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle,PJ,2025,0.5787261162584548
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle,PJ,2030,0.45766886199616974
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle,PJ,2035,0.39785427320925476
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle,PJ,2040,0.2897002438376092
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle,PJ,2045,0.2747546487152627
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle,PJ,2050,0.2351981187595609
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2025,2.2911239787648854
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2030,2.106508359314457
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2035,2.533222151306876
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2040,4.82124456174769
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2045,5.438848636344226
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2050,5.623564405252517
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combustion turbine,PJ,2025,0.22125905182685612
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combustion turbine,PJ,2030,0.1956576924612415
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combustion turbine,PJ,2035,0.12336172130652841
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combustion turbine,PJ,2040,0.12007958187866517
+canoe,nz,nova scotia,secondary energy|electricity|natural gas|combustion turbine,PJ,2045,0.11320134529272992
+canoe,nz,nova scotia,secondary energy|electricity|renewables|solar PV,PJ,2025,0.017850453310039614
+canoe,nz,nova scotia,secondary energy|electricity|renewables|solar PV,PJ,2030,1.0084144902871512
+canoe,nz,nova scotia,secondary energy|electricity|renewables|solar PV,PJ,2035,5.0352421853883005
+canoe,nz,nova scotia,secondary energy|electricity|renewables|solar PV,PJ,2040,7.286621336137324
+canoe,nz,nova scotia,secondary energy|electricity|renewables|solar PV,PJ,2045,8.35605354031569
+canoe,nz,nova scotia,secondary energy|electricity|renewables|solar PV,PJ,2050,10.344687043628497
+canoe,nz,nova scotia,secondary energy|electricity|renewables|wind onshore,PJ,2025,32.17514932582858
+canoe,nz,nova scotia,secondary energy|electricity|renewables|wind onshore,PJ,2030,45.27909232419721
+canoe,nz,nova scotia,secondary energy|electricity|renewables|wind onshore,PJ,2035,47.74819344090161
+canoe,nz,nova scotia,secondary energy|electricity|renewables|wind onshore,PJ,2040,50.70654286205558
+canoe,nz,nova scotia,secondary energy|electricity|renewables|wind onshore,PJ,2045,50.34609747036067
+canoe,nz,nova scotia,secondary energy|electricity|renewables|wind onshore,PJ,2050,50.93555266772265
+canoe,nz,nova scotia,secondary energy|electricity|storage|battery storage,PJ,2035,0.013022519956730889
+canoe,nz,nova scotia,secondary energy|electricity|storage|battery storage,PJ,2040,0.023355206774677586
+canoe,nz,nova scotia,secondary energy|electricity|storage|battery storage,PJ,2045,0.06428191290433441
+canoe,nz,nova scotia,secondary energy|electricity|storage|battery storage,PJ,2050,0.6174381020701207
+canoe,nz,ontario,secondary energy|electricity|bioenergy|biogas,PJ,2030,0.022051953021479016
+canoe,nz,ontario,secondary energy|electricity|bioenergy|biogas,PJ,2035,0.0195458045471146
+canoe,nz,ontario,secondary energy|electricity|hydro|reservoir,PJ,2025,60.992896476690355
+canoe,nz,ontario,secondary energy|electricity|hydro|reservoir,PJ,2030,60.99283940381553
+canoe,nz,ontario,secondary energy|electricity|hydro|reservoir,PJ,2035,60.99288710597491
+canoe,nz,ontario,secondary energy|electricity|hydro|reservoir,PJ,2040,60.99255039240978
+canoe,nz,ontario,secondary energy|electricity|hydro|reservoir,PJ,2045,60.992674696623816
+canoe,nz,ontario,secondary energy|electricity|hydro|reservoir,PJ,2050,60.99270970497646
+canoe,nz,ontario,secondary energy|electricity|hydro|run of river,PJ,2025,73.63069931861563
+canoe,nz,ontario,secondary energy|electricity|hydro|run of river,PJ,2030,73.63073158995294
+canoe,nz,ontario,secondary energy|electricity|hydro|run of river,PJ,2035,73.63069920973524
+canoe,nz,ontario,secondary energy|electricity|hydro|run of river,PJ,2040,73.6306009726505
+canoe,nz,ontario,secondary energy|electricity|hydro|run of river,PJ,2045,73.63048925191924
+canoe,nz,ontario,secondary energy|electricity|hydro|run of river,PJ,2050,73.63037268256879
+canoe,nz,ontario,secondary energy|electricity|natural gas|cogeneration,PJ,2025,7.6366557018178405
+canoe,nz,ontario,secondary energy|electricity|natural gas|cogeneration,PJ,2030,7.6366557365828625
+canoe,nz,ontario,secondary energy|electricity|natural gas|cogeneration,PJ,2035,7.636655681356911
+canoe,nz,ontario,secondary energy|electricity|natural gas|cogeneration,PJ,2040,7.629937984113984
+canoe,nz,ontario,secondary energy|electricity|natural gas|cogeneration,PJ,2045,7.629914254335729
+canoe,nz,ontario,secondary energy|electricity|natural gas|cogeneration,PJ,2050,7.458439553012479
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle,PJ,2025,2.4414761826924285
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle,PJ,2030,9.297125417474685
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle,PJ,2035,12.576749616718303
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle,PJ,2040,10.961661454101003
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle,PJ,2045,10.46498914465577
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle,PJ,2050,9.663246591429225
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2030,0.16335013696946454
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2035,18.374189803743107
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2040,11.939255005508238
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2045,10.413122212829522
+canoe,nz,ontario,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2050,9.138406409361455
+canoe,nz,ontario,secondary energy|electricity|natural gas|combustion turbine,PJ,2030,0.5195654109967863
+canoe,nz,ontario,secondary energy|electricity|natural gas|combustion turbine,PJ,2035,1.0061047639525063
+canoe,nz,ontario,secondary energy|electricity|natural gas|combustion turbine,PJ,2040,0.7688678968876089
+canoe,nz,ontario,secondary energy|electricity|natural gas|combustion turbine,PJ,2045,0.3627031752116671
+canoe,nz,ontario,secondary energy|electricity|nuclear|candu,PJ,2025,359.92034548667374
+canoe,nz,ontario,secondary energy|electricity|nuclear|candu,PJ,2030,262.0956811386939
+canoe,nz,ontario,secondary energy|electricity|nuclear|candu,PJ,2035,210.18742308321902
+canoe,nz,ontario,secondary energy|electricity|nuclear|candu,PJ,2040,159.0360226303941
+canoe,nz,ontario,secondary energy|electricity|nuclear|candu,PJ,2045,55.566388127729965
+canoe,nz,ontario,secondary energy|electricity|nuclear|candu,PJ,2050,55.56636002633065
+canoe,nz,ontario,secondary energy|electricity|nuclear|smr,PJ,2040,229.11584801315402
+canoe,nz,ontario,secondary energy|electricity|nuclear|smr,PJ,2045,446.5265116269662
+canoe,nz,ontario,secondary energy|electricity|nuclear|smr,PJ,2050,556.9488985777008
+canoe,nz,ontario,secondary energy|electricity|renewables|solar PV,PJ,2025,3.9963115040663366
+canoe,nz,ontario,secondary energy|electricity|renewables|solar PV,PJ,2030,105.58588797266773
+canoe,nz,ontario,secondary energy|electricity|renewables|solar PV,PJ,2035,314.12490691733353
+canoe,nz,ontario,secondary energy|electricity|renewables|solar PV,PJ,2040,313.4581191817773
+canoe,nz,ontario,secondary energy|electricity|renewables|solar PV,PJ,2045,310.78510446669833
+canoe,nz,ontario,secondary energy|electricity|renewables|solar PV,PJ,2050,310.1510187123085
+canoe,nz,ontario,secondary energy|electricity|renewables|wind onshore,PJ,2025,169.37618603937167
+canoe,nz,ontario,secondary energy|electricity|renewables|wind onshore,PJ,2030,262.42271010144214
+canoe,nz,ontario,secondary energy|electricity|renewables|wind onshore,PJ,2035,259.60550568687535
+canoe,nz,ontario,secondary energy|electricity|renewables|wind onshore,PJ,2040,248.98907988377908
+canoe,nz,ontario,secondary energy|electricity|renewables|wind onshore,PJ,2045,229.66882795359132
+canoe,nz,ontario,secondary energy|electricity|renewables|wind onshore,PJ,2050,225.14556076234965
+canoe,nz,ontario,secondary energy|electricity|storage|battery storage,PJ,2025,0.031927332121356324
+canoe,nz,ontario,secondary energy|electricity|storage|battery storage,PJ,2030,0.03220114251223309
+canoe,nz,ontario,secondary energy|electricity|storage|battery storage,PJ,2035,0.03504597956907423
+canoe,nz,ontario,secondary energy|electricity|storage|battery storage,PJ,2040,0.3813724192587784
+canoe,nz,ontario,secondary energy|electricity|storage|battery storage,PJ,2045,1.380231872420524
+canoe,nz,ontario,secondary energy|electricity|storage|battery storage,PJ,2050,4.136230173681887
+canoe,nz,ontario,secondary energy|electricity|storage|pumped hydro,PJ,2025,0.05930361206041865
+canoe,nz,ontario,secondary energy|electricity|storage|pumped hydro,PJ,2030,0.14283884009226433
+canoe,nz,ontario,secondary energy|electricity|storage|pumped hydro,PJ,2035,0.3110526142029524
+canoe,nz,ontario,secondary energy|electricity|storage|pumped hydro,PJ,2040,0.4023840964118268
+canoe,nz,ontario,secondary energy|electricity|storage|pumped hydro,PJ,2045,0.5659992973149175
+canoe,nz,ontario,secondary energy|electricity|storage|pumped hydro,PJ,2050,0.43862347651903855
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle,PJ,2025,0.17681961095758125
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle,PJ,2030,0.1035919347005718
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle,PJ,2035,0.06795087298869686
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle,PJ,2040,0.07369016434094018
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle,PJ,2045,0.0774780575711456
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle,PJ,2050,0.013455308071226023
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2025,2.6865681528977134
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2030,4.08594476373238
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2035,4.993506078135379
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2040,5.9301645117054775
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2045,5.1289503974700725
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2050,4.7371289525285984
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combustion turbine,PJ,2025,0.1040137455787669
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combustion turbine,PJ,2030,0.06357259628494868
+canoe,nz,prince edward island,secondary energy|electricity|natural gas|combustion turbine,PJ,2035,0.023206517856994485
+canoe,nz,prince edward island,secondary energy|electricity|renewables|solar PV,PJ,2025,0.1651257003825542
+canoe,nz,prince edward island,secondary energy|electricity|renewables|solar PV,PJ,2030,0.20441778992019344
+canoe,nz,prince edward island,secondary energy|electricity|renewables|solar PV,PJ,2035,4.000544043726334
+canoe,nz,prince edward island,secondary energy|electricity|renewables|solar PV,PJ,2040,5.813892567375772
+canoe,nz,prince edward island,secondary energy|electricity|renewables|solar PV,PJ,2045,7.253328263667786
+canoe,nz,prince edward island,secondary energy|electricity|renewables|solar PV,PJ,2050,7.855206489229911
+canoe,nz,prince edward island,secondary energy|electricity|renewables|wind onshore,PJ,2025,19.62833723013393
+canoe,nz,prince edward island,secondary energy|electricity|renewables|wind onshore,PJ,2030,21.755966443215094
+canoe,nz,prince edward island,secondary energy|electricity|renewables|wind onshore,PJ,2035,26.718235033150233
+canoe,nz,prince edward island,secondary energy|electricity|renewables|wind onshore,PJ,2040,33.03486323159389
+canoe,nz,prince edward island,secondary energy|electricity|renewables|wind onshore,PJ,2045,33.21034555979329
+canoe,nz,prince edward island,secondary energy|electricity|renewables|wind onshore,PJ,2050,34.83083538567752
+canoe,nz,prince edward island,secondary energy|electricity|storage|battery storage,PJ,2025,0.0453219094630507
+canoe,nz,prince edward island,secondary energy|electricity|storage|battery storage,PJ,2030,0.21075750257070264
+canoe,nz,prince edward island,secondary energy|electricity|storage|battery storage,PJ,2035,0.5013575008617016
+canoe,nz,prince edward island,secondary energy|electricity|storage|battery storage,PJ,2040,1.4425666805124193
+canoe,nz,prince edward island,secondary energy|electricity|storage|battery storage,PJ,2045,1.6943010513294154
+canoe,nz,prince edward island,secondary energy|electricity|storage|battery storage,PJ,2050,2.0993358770763986
+canoe,nz,quebec,secondary energy|electricity|hydro|reservoir,PJ,2025,583.7209684031325
+canoe,nz,quebec,secondary energy|electricity|hydro|reservoir,PJ,2030,583.653356507429
+canoe,nz,quebec,secondary energy|electricity|hydro|reservoir,PJ,2035,583.7358435394195
+canoe,nz,quebec,secondary energy|electricity|hydro|reservoir,PJ,2040,583.6825047385267
+canoe,nz,quebec,secondary energy|electricity|hydro|reservoir,PJ,2045,584.3014221164219
+canoe,nz,quebec,secondary energy|electricity|hydro|reservoir,PJ,2050,584.3005151498064
+canoe,nz,quebec,secondary energy|electricity|hydro|run of river,PJ,2025,97.52484570349856
+canoe,nz,quebec,secondary energy|electricity|hydro|run of river,PJ,2030,97.52482453861863
+canoe,nz,quebec,secondary energy|electricity|hydro|run of river,PJ,2035,97.5247442819494
+canoe,nz,quebec,secondary energy|electricity|hydro|run of river,PJ,2040,97.52446720449818
+canoe,nz,quebec,secondary energy|electricity|hydro|run of river,PJ,2045,97.5246464178537
+canoe,nz,quebec,secondary energy|electricity|hydro|run of river,PJ,2050,97.52429889800534
+canoe,nz,quebec,secondary energy|electricity|natural gas|cogeneration,PJ,2025,0.2670122058367223
+canoe,nz,quebec,secondary energy|electricity|natural gas|cogeneration,PJ,2030,0.2670935996615083
+canoe,nz,quebec,secondary energy|electricity|natural gas|cogeneration,PJ,2035,0.26702611225763817
+canoe,nz,quebec,secondary energy|electricity|natural gas|cogeneration,PJ,2040,0.16388722372161707
+canoe,nz,quebec,secondary energy|electricity|natural gas|cogeneration,PJ,2045,0.16388737828278105
+canoe,nz,quebec,secondary energy|electricity|renewables|solar PV,PJ,2035,0.018444289469615138
+canoe,nz,quebec,secondary energy|electricity|renewables|solar PV,PJ,2040,0.029809826293993417
+canoe,nz,quebec,secondary energy|electricity|renewables|solar PV,PJ,2045,0.06817878032458656
+canoe,nz,quebec,secondary energy|electricity|renewables|solar PV,PJ,2050,0.10327185122052665
+canoe,nz,quebec,secondary energy|electricity|renewables|wind onshore,PJ,2025,299.63638166655437
+canoe,nz,quebec,secondary energy|electricity|renewables|wind onshore,PJ,2030,349.0084094438613
+canoe,nz,quebec,secondary energy|electricity|renewables|wind onshore,PJ,2035,379.7042106682589
+canoe,nz,quebec,secondary energy|electricity|renewables|wind onshore,PJ,2040,383.7888789132289
+canoe,nz,quebec,secondary energy|electricity|renewables|wind onshore,PJ,2045,382.51550580766576
+canoe,nz,quebec,secondary energy|electricity|renewables|wind onshore,PJ,2050,405.9120033023462
+canoe,nz,saskatchewan,secondary energy|electricity|coal|ccs,PJ,2030,0.10789807934865552
+canoe,nz,saskatchewan,secondary energy|electricity|coal|ccs,PJ,2035,0.10275780726846528
+canoe,nz,saskatchewan,secondary energy|electricity|coal|ccs,PJ,2040,0.05929985008416952
+canoe,nz,saskatchewan,secondary energy|electricity|coal|ccs,PJ,2045,0.04682487791656503
+canoe,nz,saskatchewan,secondary energy|electricity|hydro|reservoir,PJ,2025,13.196952806509929
+canoe,nz,saskatchewan,secondary energy|electricity|hydro|reservoir,PJ,2030,13.19695002265815
+canoe,nz,saskatchewan,secondary energy|electricity|hydro|reservoir,PJ,2035,13.196870999390333
+canoe,nz,saskatchewan,secondary energy|electricity|hydro|reservoir,PJ,2040,13.196864905494367
+canoe,nz,saskatchewan,secondary energy|electricity|hydro|reservoir,PJ,2045,13.19681064323639
+canoe,nz,saskatchewan,secondary energy|electricity|hydro|reservoir,PJ,2050,13.196814866780606
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|cogeneration,PJ,2025,11.432411361219117
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|cogeneration,PJ,2030,11.432411158398796
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|cogeneration,PJ,2035,11.432411013143735
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|cogeneration,PJ,2040,11.43241106203096
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|cogeneration,PJ,2045,5.967832489286534
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle,PJ,2025,1.7460023867112646
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle,PJ,2030,2.1548907653494145
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle,PJ,2035,2.2405268576256163
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle,PJ,2040,1.9415965402438795
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle,PJ,2045,1.2759959294835215
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle,PJ,2050,1.126315942174468
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2025,2.650027953544224
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2030,0.5500750970263911
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2035,0.7888151127136952
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2040,4.237483406268262
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2045,7.5803608645541
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combined cycle ccs,PJ,2050,10.769747255615032
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combustion turbine,PJ,2030,0.02183236619132127
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combustion turbine,PJ,2035,0.028170537045267702
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combustion turbine,PJ,2040,0.04568460509502059
+canoe,nz,saskatchewan,secondary energy|electricity|natural gas|combustion turbine,PJ,2045,0.01798557017446599
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|solar PV,PJ,2025,1.0306293129836455
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|solar PV,PJ,2030,4.397859883985925
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|solar PV,PJ,2035,22.611255262100055
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|solar PV,PJ,2040,34.87636103484814
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|solar PV,PJ,2045,47.53650336459345
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|solar PV,PJ,2050,64.32743505459185
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|wind onshore,PJ,2025,87.967637653422
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|wind onshore,PJ,2030,98.47639688065125
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|wind onshore,PJ,2035,96.47442070237511
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|wind onshore,PJ,2040,96.38941187979735
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|wind onshore,PJ,2045,96.53786882798485
+canoe,nz,saskatchewan,secondary energy|electricity|renewables|wind onshore,PJ,2050,100.66374923713941
+canoe,nz,saskatchewan,secondary energy|electricity|storage|battery storage,PJ,2025,0.06360375046721567
+canoe,nz,saskatchewan,secondary energy|electricity|storage|battery storage,PJ,2030,0.08252168195141656
+canoe,nz,saskatchewan,secondary energy|electricity|storage|battery storage,PJ,2035,0.1359611203399205
+canoe,nz,saskatchewan,secondary energy|electricity|storage|battery storage,PJ,2040,0.06919853468793247
+canoe,nz,saskatchewan,secondary energy|electricity|storage|battery storage,PJ,2045,0.08583691502222725
+canoe,nz,saskatchewan,secondary energy|electricity|storage|battery storage,PJ,2050,1.5236097526108965
